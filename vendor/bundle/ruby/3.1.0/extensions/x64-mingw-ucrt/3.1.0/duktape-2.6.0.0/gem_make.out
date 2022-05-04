@@ -1,0 +1,18 @@
+current directory: C:/Users/haoxin/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/3.1.0/gems/duktape-2.6.0.0/ext/duktape
+C:/Ruby31-x64/bin/ruby.exe -I C:/Ruby31-x64/lib/ruby/3.1.0 -r ./siteconf20220503-1932-3impoj.rb extconf.rb
+checking for rb_sym2str()... yes
+creating Makefile
+
+current directory: C:/Users/haoxin/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/3.1.0/gems/duktape-2.6.0.0/ext/duktape
+make DESTDIR\= clean
+
+current directory: C:/Users/haoxin/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/3.1.0/gems/duktape-2.6.0.0/ext/duktape
+make DESTDIR\=
+generating duktape_ext-x64-mingw-ucrt.def
+compiling duktape.c
+compiling duktape_ext.c
+linking shared-object duktape_ext.so
+
+current directory: C:/Users/haoxin/Downloads/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/3.1.0/gems/duktape-2.6.0.0/ext/duktape
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 duktape_ext.so ./.gem.20220503-1932-hw7tx9
