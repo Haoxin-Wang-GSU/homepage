@@ -45,22 +45,24 @@ author:
   #name:                <firstname> <lastname>
   name:                <Haoxin> <Wang>
   #email:               <mail@domain.tld>
-  email:               <haoxinwang.hit@gmail.com>
+  email:               <hwang65@gsu.edu>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
+  - title:             About Me
+    url:               /about/
   - title:             Research
     url:               /example/
   - title:             Publication
     url:               /docs/
   - title:             Teaching
-    url:               /about/
+    url:               /docs/
   - title:             Service
-    url:               /about/
+    url:               /docs/
   - title:             Group
-    url:               /about/
+    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
