@@ -56,13 +56,13 @@ menu:
   - title:             Research
     url:               /example/
   - title:             Publication
-    url:               /Basics/
+    url:               /docs/
   - title:             Teaching
-    url:               /Build/
+    url:               /docs/
   - title:             Service
-    url:               /Config/
+    url:               /docs/
   - title:             Group
-    url:               /Install/
+    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
