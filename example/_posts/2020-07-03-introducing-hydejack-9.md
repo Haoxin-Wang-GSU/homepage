@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Mobile System & Augmented Intelligence Laboratory (THE META LAB)
+title: THE META LAB
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
