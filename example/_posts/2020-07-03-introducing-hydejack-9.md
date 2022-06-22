@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hydejack 9
+title: The Mobile System & Augmented Intelligence Laboratory (THE META LAB)
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
