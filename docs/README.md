@@ -18,18 +18,17 @@ permalink: /docs/
 {:.related-posts.faded}
 
 ## Journal Reviewer
-- IEEE Transactions on Mobile Computing, 2017, 2018, 2019, 2020, 2022
-- IEEE Communications Letters, 2018
-- IEEE Transactions on Cloud Computing, 2020
-- IEEE Transactions on Sustainable Computing, 2022 
-- IEEE Access, 2018
-- IEEE Transactions on Wireless Communications, 2021
-- Computer Networks Journal (Elsevier), 2016, 2017
-- IEEE/ACM Transactions on Networking, 2017, 2020, 2021
-- IEEE Open Journal of the Communications Society, 2022
-{:.related-posts.faded}
+* IEEE Transactions on Mobile Computing, 2017, 2018, 2019, 2020, 2022 <br>
+- IEEE Communications Letters, 2018 <br>
+- IEEE Transactions on Cloud Computing, 2020 <br>
+- IEEE Transactions on Sustainable Computing, 2022 <br>
+- IEEE Access, 2018 <br>
+- IEEE Transactions on Wireless Communications, 2021 <br>
+- Computer Networks Journal (Elsevier), 2016, 2017 <br>
+- IEEE/ACM Transactions on Networking, 2017, 2020, 2021 <br>
+- IEEE Open Journal of the Communications Society, 2022 <br>
+{:.message}
 
 ## National Science Foundation (NSF) Panelist
 
-#[install]: install.md
 
