@@ -14,7 +14,7 @@ permalink: /docs/
 {:.related-posts.faded}
 
 ## Journal Special Issue Guest Editor
-Special Issue on [Machine Learning for Next-Generation Wireless Networks and Computing Systems] (https://www.mdpi.com/journal/electronics/special_issues/ML_wireless), MDPI Electronics Open Access Journal, December 2022 <br>
+Special Issue on [Machine Learning for Next-Generation Wireless Networks and Computing Systems](https://www.mdpi.com/journal/electronics/special_issues/ML_wireless), MDPI Electronics Open Access Journal, December 2022 <br>
 {:.related-posts.faded}
 
 ## Journal Reviewer
