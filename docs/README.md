@@ -9,20 +9,12 @@ permalink: /docs/
 ---
 
 ## Member of Technical Program Committee (TPC)
-[INFOCOM 2023] IEEE International Conference on Computer Communications\
-[**[MASS 2022]**](https://sites.google.com/view/ieee-mass-2022) IEEE International Conference on Mobile Ad-Hoc and Smart Systems
-
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
+[INFOCOM 2023] IEEE International Conference on Computer Communications <br>
+[**[MASS 2022]**](https://sites.google.com/view/ieee-mass-2022) IEEE International Conference on Mobile Ad-Hoc and Smart Systems <br>
 {:.related-posts.faded}
 
 ## Journal Special Issue Guest Editor
-* [Basics]{:.heading.flip-title} --- How to add different types of content.
-* [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
-* [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
-* [Build]{:.heading.flip-title} --- How to build the static files for deployment.
-* [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
+Special Issue on Machine Learning for Next-Generation Wireless Networks and Computing Systems, MDPI Electronics Open Access Journal, December 2022 <br>
 {:.related-posts.faded}
 
 ## Journal Reviewer
