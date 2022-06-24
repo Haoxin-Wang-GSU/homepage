@@ -9,9 +9,8 @@ permalink: /docs/
 ---
 
 ## Member of Technical Program Committee (TPC)
-[INFOCOM 2023][ksyn] IEEE International Conference on Computer Communications
-[MASS 2022][MASS2022] IEEE International Conference on Mobile Ad-Hoc and Smart Systems
-see [Mastering Markdown][mm] and [kramdown Syntax][ksyn].
+[INFOCOM 2023] IEEE International Conference on Computer Communications
+[MASS 2022](https://sites.google.com/view/ieee-mass-2022) IEEE International Conference on Mobile Ad-Hoc and Smart Systems
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
@@ -34,8 +33,4 @@ see [Mastering Markdown][mm] and [kramdown Syntax][ksyn].
 ## National Science Foundation (NSF) Panelist
 
 #[install]: install.md
-[MASS2022]: https://sites.google.com/view/ieee-mass-2022
-[mm]: https://guides.github.com/features/mastering-markdown/
-[ksyn]: https://kramdown.gettalong.org/syntax.html
-[ksyntab]:https://kramdown.gettalong.org/syntax.html#tables
-[rtable]: https://dbushell.com/2016/03/04/css-only-responsive-tables/
+
