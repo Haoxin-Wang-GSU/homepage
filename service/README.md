@@ -5,7 +5,7 @@ description: >
   Professional service and activities.
 hide_description: true
 sitemap: false
-permalink: /docs/
+permalink: /service/
 ---
 
 ## Member of Technical Program Committee (TPC)
