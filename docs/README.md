@@ -9,8 +9,9 @@ permalink: /docs/
 ---
 
 ## Member of Technical Program Committee (TPC)
-[INFOCOM 2023] IEEE International Conference on Computer Communications.
-[**MASS 2022**](https://sites.google.com/view/ieee-mass-2022) IEEE International Conference on Mobile Ad-Hoc and Smart Systems.
+[INFOCOM 2023] IEEE International Conference on Computer Communications\
+[**MASS 2022**](https://sites.google.com/view/ieee-mass-2022) IEEE International Conference on Mobile Ad-Hoc and Smart Systems\
+
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
