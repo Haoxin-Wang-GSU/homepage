@@ -56,9 +56,9 @@ menu:
   - title:             Research
     url:               /example/
   - title:             Publication
-    url:               /docs/
+    url:               /publication/
   - title:             Teaching
-    url:               /docs/
+    url:               /teaching/
   - title:             Service
     url:               /service/
   - title:             Group
