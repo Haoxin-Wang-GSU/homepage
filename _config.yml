@@ -57,6 +57,8 @@ menu:
     url:               /example/
   - title:             Publication
     url:               /publication/
+  - title:             Patent
+    url:               /patent/
   - title:             Teaching
     url:               /teaching/
   - title:             Service
