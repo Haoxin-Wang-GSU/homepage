@@ -9,7 +9,7 @@ permalink: /docs/
 ---
 
 ## Member of Technical Program Committee (TPC)
-[INFOCOM 2023][INFOCOM2023] IEEE International Conference on Computer Communications
+[INFOCOM 2023][ksyn] IEEE International Conference on Computer Communications
 [MASS 2022][MASS2022] IEEE International Conference on Mobile Ad-Hoc and Smart Systems
 
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
@@ -34,5 +34,5 @@ permalink: /docs/
 ## National Science Foundation (NSF) Panelist
 
 #[install]: install.md
-[INFOCOM2023]: 
+[ksyn]: https://kramdown.gettalong.org/syntax.html
 [MASS2022]: https://sites.google.com/view/ieee-mass-2022
