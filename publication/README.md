@@ -39,5 +39,29 @@ Sidi Lu, Nejib Ammar, Akila Ganlath, <span style="color:blue">Haoxin Wang</span>
 <span style="color:blue">Haoxin Wang</span> and Jiang (Linda) Xie <br>
 *The 6th ACM/IEEE Symposium on Edge Computing, San Jose, CA, December 2021.*
 
+- **[INFOCOM'20]** **User Preference Based Energy-Aware Mobile AR System with Edge Computing** <br>
+<span style="color:blue">Haoxin Wang</span> and Jiang (Linda) Xie <br>
+*IEEE International Conference on Computer Communications, Toronto, ON, Canada, July 2020.*
+
+- **[ICC'19]** **E-Auto: A Communication Scheme for Connected Vehicles with Edge-assisted Autonomous Driving** <br>
+<span style="color:blue">Haoxin Wang</span>, BaekGyu Kim, Jiang (Linda) Xie, and Zhu Han <br>
+*IEEE International Conference on Communications, Shanghai, China, May 2019.*
+
+- **[GLOBECOM'19]** **How is Energy Consumed in Smartphone Deep Learning Apps? Executing Locally vs. Remotely** <br>
+<span style="color:blue">Haoxin Wang</span>, BaekGyu Kim, Jiang (Linda) Xie, and Zhu Han <br>
+*IEEE Global Communications Conference, Waikoloa, HI, December 2019.*
+
+- **[SECON'18]** **Rethinking Mobile Devices' Energy Efficiency in WLAN Management Services** <br>
+<span style="color:blue">Haoxin Wang</span>, Jiang (Linda) Xie, and Xingya Liu <br>
+*IEEE International Conference on Sensing, Communication and Networking, Hongkong, China, June 2018.*
+
+- **[ICC'18]** **A Smart Service Rebuilding Scheme Across Cloudlets via Mobile AR Frame Feature Mapping** <br>
+<span style="color:blue">Haoxin Wang</span>, Jiang (Linda) Xie, and Tao Han <br>
+*IEEE International Conference on Communications, Kansas City, MO, May 2018.*
+
+- **[ICC'17]** **V-Handoff: A Practical Energy Efficient Handoff for 802.11 Infrastructure Networks** <br>
+<span style="color:blue">Haoxin Wang</span>, Jiang (Linda) Xie, and Tao Han <br>
+*IEEE International Conference on Communications, Paris, France, May 2017.*
+
 
 ## Thesis
