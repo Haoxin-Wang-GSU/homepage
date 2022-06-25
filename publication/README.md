@@ -48,51 +48,51 @@ permalink: /publication/
 > - **[SEC'21]** **You Can Enjoy Augmented Reality While Running Around: An Edge-based Mobile AR System** <br>
 > <span style="color:#136465">**Haoxin Wang**</span> and [Jiang (Linda) Xie][Linda] <br>
 > *The 6th ACM/IEEE Symposium on Edge Computing, San Jose, CA, December 2021.* <br>
-<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
-<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
+<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](/paper/SEC22.pdf)</button>
+<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9709007)</button>
 
 > - **[INFOCOM'20]** **User Preference Based Energy-Aware Mobile AR System with Edge Computing** <br>
 > <span style="color:#136465">**Haoxin Wang**</span> and [Jiang (Linda) Xie][Linda] <br>
 > *IEEE International Conference on Computer Communications, Toronto, ON, Canada, July 2020.* <br>
-<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
-<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
+<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://par.nsf.gov/servlets/purl/10205860)</button>
+<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9155517)</button>
 
 > - **[ICC'19]** **E-Auto: A Communication Scheme for Connected Vehicles with Edge-assisted Autonomous Driving** <br>
 > <span style="color:#136465">**Haoxin Wang**</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
 > *IEEE International Conference on Communications, Shanghai, China, May 2019.* <br>
-<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
-<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
+<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://www.researchgate.net/profile/Haoxin-Wang-4/publication/334488707_E-Auto_A_Communication_Scheme_for_Connected_Vehicles_with_Edge-Assisted_Autonomous_Driving/links/5f8755e2a6fdccfd7b62572e/E-Auto-A-Communication-Scheme-for-Connected-Vehicles-with-Edge-Assisted-Autonomous-Driving.pdf)</button>
+<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/8761551)</button>
 
 > - **[GLOBECOM'19]** **How is Energy Consumed in Smartphone Deep Learning Apps? Executing Locally vs. Remotely** <br>
 > <span style="color:#136465">**Haoxin Wang**</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
 > *IEEE Global Communications Conference, Waikoloa, HI, December 2019.* <br>
-<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
-<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
+<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://par.nsf.gov/servlets/purl/10199522)</button>
+<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9013647)</button>
 
 > - **[SECON'18]** **Rethinking Mobile Devices' Energy Efficiency in WLAN Management Services** <br>
 > <span style="color:#136465">**Haoxin Wang**</span>, [Jiang (Linda) Xie][Linda], and [Xingya Liu][Xingya] <br>
 > *IEEE International Conference on Sensing, Communication and Networking, Hongkong, China, June 2018.* <br>
-<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
-<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
+<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](/paper/SECON18.pdf)</button>
+<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/8397137)</button>
 
 > - **[ICC'18]** **A Smart Service Rebuilding Scheme Across Cloudlets via Mobile AR Frame Feature Mapping** <br>
 > <span style="color:#136465">**Haoxin Wang**</span>, [Jiang (Linda) Xie][Linda], and [Tao Han][Tao] <br>
 > *IEEE International Conference on Communications, Kansas City, MO, May 2018.* <br>
-<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
-<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
+<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://par.nsf.gov/servlets/purl/10077029)</button>
+<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/8422226)</button>
 
 > - **[ICC'17]** **V-Handoff: A Practical Energy Efficient Handoff for 802.11 Infrastructure Networks** <br>
 > <span style="color:#136465">**Haoxin Wang**</span>, [Jiang (Linda) Xie][Linda], and [Tao Han][Tao] <br>
 > *IEEE International Conference on Communications, Paris, France, May 2017.* <br>
-<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
-<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
+<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](/paper/ICC17.pdf)</button>
+<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/7997151)</button>
 
 
 ## Thesis
 > - **Fast and Energy-Efficient Mobility Management in Mobile Edge Computing Networks** <br>
 > <span style="color:#136465">**Haoxin Wang**</span> <br>
 > *Ph.D. Thesis, Department of Electrical and Computer Engineering, University of North Carolina at Charlotte, October 2020.* (Advisor: [Professor Jiang (Linda) Xie](https://webpages.charlotte.edu/~jxie1/index.html)) <br>
-<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
+<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://www.proquest.com/openview/4ac4b28d4d8630ff5d959d354cefe0d8/1?pq-origsite=gscholar&cbl=44156)</button>
 
 [Bkim]: https://sites.google.com/view/bgkim0110/baekgyu-kim
 [Linda]: https://webpages.charlotte.edu/~jxie1/index.html
