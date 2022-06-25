@@ -8,18 +8,6 @@ sitemap: false
 permalink: /publication/
 ---
 
-.button {
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-
 ## Journals
 - **[TMC'22]** **LEAF + AIO: Edge-Assisted Energy-Aware Object Detection for Mobile Augmented Reality** <br>
 <span style="color:blue">Haoxin Wang</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
@@ -27,9 +15,8 @@ permalink: /publication/
 <button>[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
 
 
-
 - **[IOTJ'22]** **Mobility Digital Twin: Concept, Architecture, Case Studies, and Challenges** <br>
-[Ziran Wang][Ziran], Rohit Gupta, Kyungtae Han, <span style="color:blue">Haoxin Wang</span>, Akila Ganlath, Nejib Ammar, and Prashant Tiwari, <br>
+[Ziran Wang][Ziran], Rohit Gupta, Kyungtae Han, <span style="color:blue">Haoxin Wang</span>, Akila Ganlath, Nejib Ammar, and Prashant Tiwari <br>
 *IEEE Internet of Things Journal, Early Access.* <br>
 
 
