@@ -66,7 +66,7 @@ Sidi Lu, Nejib Ammar, Akila Ganlath, <span style="color:blue">Haoxin Wang</span>
 
 ## Thesis
 - **Fast and Energy-Efficient Mobility Management in Mobile Edge Computing Networks** <br>
-<span style="color:blue">Haoxin Wang</span>
+<span style="color:blue">Haoxin Wang</span> <br>
 *Ph.D. Thesis, Department of Electrical and Computer Engineering, University of North Carolina at Charlotte, October 2020.* (Advisor: [Professor Jiang (Linda) Xie](https://webpages.charlotte.edu/~jxie1/index.html))
 
 
