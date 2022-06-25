@@ -18,20 +18,20 @@ permalink: /publication/
 > - **[IOTJ'22]** **Mobility Digital Twin: Concept, Architecture, Case Studies, and Challenges** <br>
 > [Ziran Wang][Ziran], Rohit Gupta, Kyungtae Han, <span style="color:#136465">**Haoxin Wang**</span>, Akila Ganlath, Nejib Ammar, and Prashant Tiwari <br>
 > *IEEE Internet of Things Journal, Early Access.* <br>
-<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
-<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
+<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://www.researchgate.net/profile/Ziran-Wang-6/publication/358970927_Mobility_Digital_Twin_Concept_Architecture_Case_Study_and_Future_Challenges/links/6223c63384ce8e5b4d088be4/Mobility-Digital-Twin-Concept-Architecture-Case-Study-and-Future-Challenges.pdf)</button>
+<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9724183)</button>
 
 > - **[TGCN'21]** **Energy Drain of the Object Detection Processing Pipeline for Mobile Devices: Analysis and Implications** <br>
 > <span style="color:#136465">**Haoxin Wang**</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
 > *IEEE Transactions on Green Communications and Networking, vol.5, no.1, pp.41-60, 2021* <br>
-<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
-<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
+<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2011.13075.pdf)</button>
+<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9274509)</button>
 
 > - **[COMST'20]** **Architectural Design Alternatives based on Cloud/Edge/Fog Computing for Connected Vehicles** <br>
 > <span style="color:#136465">**Haoxin Wang**</span>, Tingting Liu, [BaekGyu Kim][Bkim], [Chung-Wei Lin][Lin], Shinichi Shiraishi, [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
 > *IEEE Communications Surveys and Tutorials, vol.22, no.4, pp.2349-2377, Fourthquarter 2020.* <br>
-<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
-<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
+<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2009.12509.pdf)</button>
+<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9184917)</button>
 
 
 ## Conferences
