@@ -31,6 +31,13 @@ Ziran Wang, Rohit Gupta, Kyungtae Han, <span style="color:blue">Haoxin Wang</spa
 Qiang Liu, Yuru Zhang, and <span style="color:blue">Haoxin Wang</span> <br>
 *IEEE International Conference on Communications, Seoul, South Korea, May 2022.*
 
+- **[MetroCAD'22]** **A Comparison for End-to-End Architectures for Connected Vehicles** <br>
+Sidi Lu, Nejib Ammar, Akila Ganlath, <span style="color:blue">Haoxin Wang</span>, and Weisong Shi <br>
+*IEEE 5th International Conference on Connected and Autonomous Driving, Detroit, Michigan, April 2022.*
+
+- **[SEC'21]** **You Can Enjoy Augmented Reality While Running Around: An Edge-based Mobile AR System** <br>
+<span style="color:blue">Haoxin Wang</span> and Jiang (Linda) Xie <br>
+*The 6th ACM/IEEE Symposium on Edge Computing, San Jose, CA, December 2021.*
 
 
 ## Thesis
