@@ -38,14 +38,12 @@ permalink: /publication/
 > - **[ICC'22]** **EdgeMap: CrowdSourcing High Definition Map in Automotive Edge Computing** <br>
 > [Qiang Liu][Qiang], Yuru Zhang, and <span style="color:#136465">**Haoxin Wang**</span> <br>
 > *IEEE International Conference on Communications, Seoul, South Korea, May 2022.* <br>
-<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
-<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
+<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2201.07973.pdf)</button>
 
 > - **[MetroCAD'22]** **A Comparison for End-to-End Architectures for Connected Vehicles** <br>
 > Sidi Lu, Nejib Ammar, Akila Ganlath, <span style="color:#136465">**Haoxin Wang**</span>, and [Weisong Shi][Shi] <br>
 > *IEEE 5th International Conference on Connected and Autonomous Driving, Detroit, Michigan, April 2022.* <br>
-<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
-<button style="background-color:#136465; border-color:#136465">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
+<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](/paper/MetroCAD22.pdf)</button>
 
 > - **[SEC'21]** **You Can Enjoy Augmented Reality While Running Around: An Edge-based Mobile AR System** <br>
 > <span style="color:#136465">**Haoxin Wang**</span> and [Jiang (Linda) Xie][Linda] <br>
