@@ -16,9 +16,15 @@ permalink: /publication/
 <button name="button" onclick="http://www.google.com">Click me</button>
 <a><button name="button" style = "color: red" onclick="https://www.w3schools.com/CPP/cpp_math.asp">`cmath`on w3schools</button></a>
 
+
+
 - **[IOTJ'22]** **Mobility Digital Twin: Concept, Architecture, Case Studies, and Challenges** <br>
 [Ziran Wang][Ziran], Rohit Gupta, Kyungtae Han, <span style="color:blue">Haoxin Wang</span>, Akila Ganlath, Nejib Ammar, and Prashant Tiwari, <br>
 *IEEE Internet of Things Journal, Early Access.*
+> :Buttons
+> > :Button label=GitHub, url=https://github.com
+>
+> > :Button label=NPM, url=https://npmjs.org
 
 - **[TGCN'21]** **Energy Drain of the Object Detection Processing Pipeline for Mobile Devices: Analysis and Implications** <br>
 <span style="color:blue">Haoxin Wang</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
