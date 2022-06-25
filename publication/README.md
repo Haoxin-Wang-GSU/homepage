@@ -13,7 +13,13 @@ permalink: /publication/
 <span style="color:blue">Haoxin Wang</span>, BaekGyu Kim, Jiang (Linda) Xie, and Zhu Han <br>
 *IEEE Transactions on Mobile Computing, Early Access.*
 
+- **[TGCN'21]** **Energy Drain of the Object Detection Processing Pipeline for Mobile Devices: Analysis and Implications** <br>
+<span style="color:blue">Haoxin Wang</span>, BaekGyu Kim, Jiang (Linda) Xie, and Zhu Han <br>
+*IEEE Transactions on Green Communications and Networking, vol.5, no.1, pp.41-60, 2021*
 
+- **[TGCN'21]** **Architectural Design Alternatives based on Cloud/Edge/Fog Computing for Connected Vehicles** <br>
+<span style="color:blue">Haoxin Wang</span>, Tingting Liu, BaekGyu Kim, Chung-Wei Lin, Shinichi Shiraishi, Jiang (Linda) Xie, and Zhu Han, <br>
+*IEEE Communications Surveys and Tutorials, vol.22, no.4, pp.2349-2377, Fourthquarter 2020.*
 
 
 ## Conferences
