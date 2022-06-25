@@ -26,8 +26,11 @@ Ziran Wang, Rohit Gupta, Kyungtae Han, <span style="color:blue">Haoxin Wang</spa
 *IEEE Communications Surveys and Tutorials, vol.22, no.4, pp.2349-2377, Fourthquarter 2020.*
 
 
-
 ## Conferences
+- **[ICC'22]** **EdgeMap: CrowdSourcing High Definition Map in Automotive Edge Computing** <br>
+Qiang Liu, Yuru Zhang, and <span style="color:blue">Haoxin Wang</span> <br>
+*IEEE International Conference on Communications, Seoul, South Korea, May 2022.*
+
 
 
 ## Thesis
