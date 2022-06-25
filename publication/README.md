@@ -10,7 +10,7 @@ permalink: /publication/
 
 ## Journals
 - **[TMC'22]** **LEAF + AIO: Edge-Assisted Energy-Aware Object Detection for Mobile Augmented Reality** <br>
-<span style="color:blue">Haoxin Wang</span>, BaekGyu Kim, Jiang (Linda) Xie, and Zhu Han <br>
+<span style="color:blue">Haoxin Wang</span>, [BaekGyu Kim][Bkim], Jiang (Linda) Xie, and Zhu Han <br>
 *IEEE Transactions on Mobile Computing, Early Access.*
 
 - **[IOTJ'22]** **Mobility Digital Twin: Concept, Architecture, Case Studies, and Challenges** <br>
@@ -69,4 +69,4 @@ Sidi Lu, Nejib Ammar, Akila Ganlath, <span style="color:blue">Haoxin Wang</span>
 <span style="color:blue">Haoxin Wang</span> <br>
 *Ph.D. Thesis, Department of Electrical and Computer Engineering, University of North Carolina at Charlotte, October 2020.* (Advisor: [Professor Jiang (Linda) Xie](https://webpages.charlotte.edu/~jxie1/index.html))
 
-
+[Bkim]: https://sites.google.com/view/bgkim0110/baekgyu-kim
