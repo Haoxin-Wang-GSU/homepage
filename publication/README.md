@@ -12,11 +12,12 @@ permalink: /publication/
 - **[TMC'22]** **LEAF + AIO: Edge-Assisted Energy-Aware Object Detection for Mobile Augmented Reality** <br>
 <span style="color:blue">Haoxin Wang</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
 *IEEE Transactions on Mobile Computing, Early Access.* <br>
+<button>PDF</button>
 
 - **[IOTJ'22]** **Mobility Digital Twin: Concept, Architecture, Case Studies, and Challenges** <br>
 [Ziran Wang][Ziran], Rohit Gupta, Kyungtae Han, <span style="color:blue">Haoxin Wang</span>, Akila Ganlath, Nejib Ammar, and Prashant Tiwari, <br>
 *IEEE Internet of Things Journal, Early Access.* <br>
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
 
 - **[TGCN'21]** **Energy Drain of the Object Detection Processing Pipeline for Mobile Devices: Analysis and Implications** <br>
 <span style="color:blue">Haoxin Wang</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
