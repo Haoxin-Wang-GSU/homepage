@@ -12,7 +12,7 @@ permalink: /publication/
 - **[TMC'22]** **LEAF + AIO: Edge-Assisted Energy-Aware Object Detection for Mobile Augmented Reality** <br>
 <span style="color:blue">Haoxin Wang</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
 *IEEE Transactions on Mobile Computing, Early Access.* <br>
-<button style="background-color:#136465; border-color:#136465">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
+<button style="background-color:#cedbe0; border-color:#cedbe0">[PDF](https://arxiv.org/pdf/2205.13770.pdf)</button>
 <button style="background-color:#136465; border-color:#136465">[<span style="color:white">PDF</span>](https://arxiv.org/pdf/2205.13770.pdf)</button>
 
 - **[IOTJ'22]** **Mobility Digital Twin: Concept, Architecture, Case Studies, and Challenges** <br>
