@@ -32,7 +32,7 @@ It includes a blog that is suitable for both prose and technical documentation, 
 {:.lead}
 
 
-## A Personal Site That Won't Disappear
+## Updated CV
 
 **Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
 
