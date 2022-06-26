@@ -15,8 +15,9 @@ hide_description: true
 :-------------------------:|:-------------------------:
 ![](assets/img/InfoTech.png){:.lead width="128"}  |  Toyota Motor North America, InfoTech Labs
 ![](assets/img/UNCC.png){:.lead width="128"}  |  University of North Carolina, Charlotte
-![](assets/img/HIT.jpeg){:.lead width="128"}  |  Harbin Institute of Technology 
-<img src=assets/img/HIT.jpeg width=10%>  |  Harbin Institute of Technology 
+![](assets/img/HIT.jpeg){:.lead width="128"}  |  Harbin Institute of Technology
+ 
+<img src=“assets/img/HIT.jpeg” width=10%>  |  Harbin Institute of Technology 
 
 ## Hobbies
 
