@@ -11,6 +11,12 @@ hide_description: true
 
 ## Background
 
+<style>
+table {
+    background-color: white;
+}
+</style>
+
 :-------------------------:|:-------------------------:
 ![](assets/img/InfoTech_128.jpg)  |  Toyota Motor North America, InfoTech Labs
 ![](assets/img/InfoTech_128.jpg)  |  Toyota Motor North America, InfoTech Labs
