@@ -20,7 +20,6 @@ hide_description: true
 
 ## Hobbies
 
-< img alt="" src="https://img-blog.csdnimg.cn/img_convert/c2636f5f434ea20e443cd50e9a5ff8f5.png"> 
 
 ## Updated CV
 
