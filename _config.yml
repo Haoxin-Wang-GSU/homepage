@@ -26,9 +26,9 @@ title:                 Haoxin Wang
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   <span style="color:#ffffff">**Assistant Professor**</span> <br>
-  **Department of Computer Science** <br>
-  **Georgia State University** <br>
-  **Email: hwang65@gsu.edu** <br>
+  <span style="color:#ffffff">**Department of Computer Science**</span> <br>
+  <span style="color:#ffffff">**Georgia State University**</span> <br>
+  <span style="color:#ffffff">**Email: hwang65@gsu.edu**</span> <br>
 
 # A shorter description for the sidebar.
 #tagline:               Change `tagline` in `_config.yml`
