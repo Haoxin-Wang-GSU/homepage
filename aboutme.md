@@ -11,7 +11,6 @@ hide_description: true
 
 ## Background
 
-| Italic             |  Block letters |
 :-------------------------:|:-------------------------:
 ![](assets/img/InfoTech.png){:.lead width="28"}  |  Toyota Motor North America, InfoTech Labs 1
 ![](assets/img/UNCC.png){:.lead width="28"}  |  University of North Carolina, Charlotte
