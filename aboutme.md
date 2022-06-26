@@ -15,7 +15,7 @@ hide_description: true
 :-------------------------:|:-------------------------:
 ![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}  |  ![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}
 ![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}  |  ![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}
-![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}  |  ![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}
+![](assets/img/HIT.png){:.lead width="200" height="200" loading="lazy"}  |  Harbin Institute of Technology 
 
 ## Hobbies
 
