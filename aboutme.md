@@ -1,6 +1,5 @@
 ---
 layout: about
-#image: /assets/img/blog/hydejack-9.jpg
 description: >
   About me.
 hide_description: true
@@ -8,7 +7,7 @@ hide_description: true
 
 # About Me
 
-<!--author-->
+<!--author1-->
 
 ## Background
 
