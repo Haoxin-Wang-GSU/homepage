@@ -13,6 +13,7 @@ hide_description: true
 
 :-------------------------:|:-------------------------:
 ![](assets/img/InfoTech_128.jpg)  |  Toyota Motor North America, InfoTech Labs
+![](assets/img/InfoTech_128.jpg)  |  Toyota Motor North America, InfoTech Labs
 ![](assets/img/UNCC_128.png)  |  University of North Carolina, Charlotte
 ![](assets/img/HIT_128.jpeg) |  Harbin Institute of Technology
 
