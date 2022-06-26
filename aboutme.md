@@ -13,9 +13,9 @@ hide_description: true
 
 | Italic             |  Block letters |
 :-------------------------:|:-------------------------:
-![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}  |  ![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}
-![](assets/img/UNCC.png){:.lead width="192" height="108" loading="lazy"}  |  University of North Carolina at Charlotte
-![](assets/img/HIT.jpeg){:.lead width="200" height="200" loading="lazy"}  |  Harbin Institute of Technology 
+![](assets/img/haoxin_logo.png){:.lead width="128" height="128" loading="lazy"}  |  Toyota
+![](assets/img/UNCC.png){:.lead width="128" height="128" loading="lazy"}  |  University of North Carolina at Charlotte
+![](assets/img/HIT.jpeg){:.lead width="128" height="128" loading="lazy"}  |  Harbin Institute of Technology 
 
 ## Hobbies
 
