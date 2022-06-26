@@ -7,7 +7,7 @@ hide_description: true
 
 # About Me
 
-<!--author1-->
+<!--author-->
 
 ## Background
 
