@@ -30,6 +30,8 @@ It includes a blog that is suitable for both prose and technical documentation, 
 > Your complete presence on the web — A [blog], [portfolio], and [resume].
 {:.lead}
 
+## Hobbies
+
 
 ## Updated CV
 
@@ -37,9 +39,6 @@ It includes a blog that is suitable for both prose and technical documentation, 
 
 Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
 
-## Download
-
-{% include table.md %}
 
 
 ## A Free Blogging Theme
