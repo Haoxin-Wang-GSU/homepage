@@ -10,7 +10,7 @@ hide_description: true
 
 <!--author-->
 
-## Hydejack
+## Background
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
