@@ -25,10 +25,10 @@ title:                 Haoxin Wang
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Assistant Professor
-  Department of Computer Science
-  Georgia State University
-  Email: hwang65@gsu.edu
+  Assistant Professor <br>
+  Department of Computer Science <br>
+  Georgia State University <br>
+  Email: hwang65@gsu.edu <br>
 
 # A shorter description for the sidebar.
 #tagline:               Change `tagline` in `_config.yml`
