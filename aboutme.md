@@ -13,7 +13,7 @@ hide_description: true
 
 | Italic             |  Block letters |
 :-------------------------:|:-------------------------:
-![](assets/img/InfoTech.png){:.lead width="28"}  |  Toyota Motor North America, InfoTech Labs
+![](assets/img/InfoTech.png){:.lead width="28"}  |  Toyota Motor North America, InfoTech Labs 1
 ![](assets/img/UNCC.png){:.lead width="28"}  |  University of North Carolina, Charlotte
 ![](assets/img/HIT.jpeg){:.lead width="28"}  |  Harbin Institute of Technology
 
