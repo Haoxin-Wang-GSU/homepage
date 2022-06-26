@@ -13,7 +13,7 @@ hide_description: true
 
 <style>
 tr {
-    background-color: red;
+    background-color: white;
 }
 </style>
 
