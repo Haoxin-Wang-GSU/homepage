@@ -23,11 +23,11 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          https://scholar.google.com/citations?user=4cdwjlQAAAAJ&hl=zh-CN
+    github:          <>
     email:           <hwang65@gsu.edu>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
-    google:          <https://scholar.google.com/citations?user=4cdwjlQAAAAJ&hl=zh-CN>
+    google:          https://scholar.google.com/citations?user=4cdwjlQAAAAJ&hl=zh-CN
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
