@@ -12,8 +12,8 @@ hide_description: true
 ## Background
 
 <style>
-table {
-    background-color: white;
+tr {
+    background-color: red;
 }
 </style>
 
