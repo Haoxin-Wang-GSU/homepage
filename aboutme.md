@@ -11,12 +11,6 @@ hide_description: true
 
 ## Background
 
-<style>
-tr {
-    background-color: white;
-}
-</style>
-
 :-------------------------:|:-------------------------:
 [![](assets/img/InfoTech_128.png)](https://amrd.toyota.com/division/itl/) |  **Toyota Motor North America, InfoTech Labs** <br> Mountain View, CA <br> Dec. 2020 - Present <br> *Research Scientist* 
 [![](assets/img/InfoTech_128.png)](https://amrd.toyota.com/division/itl/) |  **Toyota Motor North America, InfoTech Labs** <br> Mountain View, CA <br> Jan. 2020 - May. 2020 <br> *Research Intern* 
