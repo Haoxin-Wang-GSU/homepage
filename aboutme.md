@@ -13,9 +13,9 @@ hide_description: true
 
 | Italic             |  Block letters |
 :-------------------------:|:-------------------------:
-![](assets/img/haoxin_logo.png){:.lead width="1920" height="1080" loading="lazy"}  |  ![](assets/img/haoxin_logo.png){:.lead width="1920" height="1080" loading="lazy"}
-![](assets/img/haoxin_logo.png){:.lead width="1920" height="1080" loading="lazy"}  |  ![](assets/img/haoxin_logo.png){:.lead width="1920" height="1080" loading="lazy"}
-![](assets/img/haoxin_logo.png){:.lead width="1920" height="1080" loading="lazy"}  |  ![](assets/img/haoxin_logo.png){:.lead width="1920" height="1080" loading="lazy"}
+![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}  |  ![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}
+![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}  |  ![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}
+![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}  |  ![](assets/img/haoxin_logo.png){:.lead width="192" height="108" loading="lazy"}
 
 ## Hobbies
 
