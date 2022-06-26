@@ -13,9 +13,9 @@ hide_description: true
 
 | Italic             |  Block letters |
 :-------------------------:|:-------------------------:
-![](/assets/img/haoxin_logo.png)  |  ![](/assets/img/haoxin_logo.png)
-![](/assets/img/haoxin_logo.png)  |  ![](/assets/img/haoxin_logo.png)
-![](/assets/img/haoxin_logo.png)  |  ![](/assets/img/haoxin_logo.png)
+![](assets/img/haoxin_logo.png)  |  ![](assets/img/haoxin_logo.png)
+![](assets/img/haoxin_logo.png)  |  ![](assets/img/haoxin_logo.png)
+![](assets/img/haoxin_logo.png)  |  ![](assets/img/haoxin_logo.png)
 
 ## Hobbies
 
