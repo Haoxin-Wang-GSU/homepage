@@ -39,5 +39,9 @@ Travel map - explored <span style="color:#002993">**8.82%**</span> of the world 
 [Musée du Louvre](https://www.louvre.fr/zh-hans) - Paris, France.
 {:.figure}
 
+![Yosemite](assets/img/travel/Yosemite.jpg)
+[Yosemite National Park](https://www.nps.gov/yose/index.htm) - CA.
+{:.figure}
+
 ## Updated CV
 
