@@ -78,7 +78,7 @@ You can add large text.
 {:.lead}
 
 ## Large images
-![Full-width image](https://via.placeholder.com/800x100){:.lead width="800" height="100"}
+![Full-width image](https://via.placeholder.com/800x100){:.lead width="80" height="10"}
 
 ## Captions to images
 ![Full-width image](https://via.placeholder.com/800x100){:.lead width="800" height="100"}
