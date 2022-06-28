@@ -27,7 +27,9 @@ table {
 {:.stretch-table}
 
 ## Hobbies
-
+![Travel Map](assets/img/MyTravelMap.png)
+Travel map - explored 8.82% of the world (updated by June 2022).
+{:.figure}
 
 ## Updated CV
 
