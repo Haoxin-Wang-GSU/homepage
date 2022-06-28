@@ -43,5 +43,9 @@ Travel map - explored <span style="color:#002993">**8.82%**</span> of the world 
 [Yosemite National Park](https://www.nps.gov/yose/index.htm) - CA.
 {:.figure}
 
+![Yosemite](assets/img/travel/Tokyo.jpg)
+[Yosemite National Park](https://www.nps.gov/yose/index.htm) - Tokyo, Japan.
+{:.figure}
+
 ## Updated CV
 
