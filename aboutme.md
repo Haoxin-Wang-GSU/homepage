@@ -35,5 +35,9 @@ Travel map - explored <span style="color:#002993">**8.82%**</span> of the world 
 [Georgia Aquarium](https://www.georgiaaquarium.org/) - Atlanta, GA.
 {:.figure}
 
+![Paris](assets/img/travel/Paris.jpg)
+[Musée du Louvre](https://www.louvre.fr/zh-hans) - Paris, France.
+{:.figure}
+
 ## Updated CV
 
