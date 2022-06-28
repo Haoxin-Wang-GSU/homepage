@@ -35,12 +35,16 @@ Travel map - explored <span style="color:#002993">**8.82%**</span> of the world 
 [Georgia Aquarium](https://www.georgiaaquarium.org/) - Atlanta, GA.
 {:.figure}
 
-![Paris](assets/img/travel/Paris.jpg)
+![Paris](assets/img/travel/paris.jpg)
 [Musée du Louvre](https://www.louvre.fr/zh-hans) - Paris, France.
 {:.figure}
 
 ![Yosemite](assets/img/travel/Yosemite.jpg)
 [Yosemite National Park](https://www.nps.gov/yose/index.htm) - CA.
+{:.figure}
+
+![Yosemite](assets/img/travel/Tokyo.jpg)
+[Yosemite National Park](https://www.nps.gov/yose/index.htm) - Tokyo, Japan.
 {:.figure}
 
 ![Yosemite](assets/img/travel/Tokyo.jpg)
