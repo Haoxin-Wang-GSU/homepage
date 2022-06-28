@@ -31,5 +31,9 @@ table {
 Travel map - explored <span style="color:#002993">**8.82%**</span> of the world (updated by June 2022).
 {:.figure}
 
+![Atlanta](assets/img/travel/Atlanta.jpg)
+[Georgia Aquarium](https://www.georgiaaquarium.org/) - Atlanta, GA.
+{:.figure}
+
 ## Updated CV
 
