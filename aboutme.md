@@ -32,7 +32,7 @@ table {
 
 Life is about the adventures you take and the memories you make.
 
-&#x1F4CD A small goal: explore 20% of the world with my family by 2030. &#x1F30D
+🚩 A small goal: explore 20% of the world with my family by 2030. &#x1F30D
 
 &#x2702
 
