@@ -51,10 +51,15 @@ Travel map - explored <span style="color:#002993">**8.82%**</span> of the world 
 {:.figure}
 
 ![Yosemite](assets/img/travel/Tokyo.jpg)
-Kart racing and wearing of a traditional Japanese Kimono - Tokyo, Japan.
+Kart racing with wearing of a traditional Japanese Kimono - Tokyo, Japan.
 {:.figure}
 
 ### 🍵 Noodles & Ramen 🍵
+
+As a Lanzhou native, beef noodle is my "Soul Mate". I tried some Lanzhou noodle restaurants in the USA and Japan. I found some of them are authentic and would love to share with you if you want to give it a shot.
+
+- 👍 馬子禄牛肉面 神保町店: 1 Chome-3-18 Kanda Jinbocho, Chiyoda City, Tokyo 101-0051, Japan
+- 👍 Highland Noodles 金城兰州拉面: 1720 N Milpitas Blvd, Milpitas, CA 95035
 
 ## Updated CV
 
