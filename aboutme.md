@@ -28,7 +28,7 @@ table {
 
 ## Hobbies
 
-### Travel
+### ✈️ Travel ✈️
 
 Life is about the adventures you take and the memories you make.
 
@@ -54,7 +54,7 @@ Travel map - explored <span style="color:#002993">**8.82%**</span> of the world 
 Kart racing and wearing of a traditional Japanese Kimono - Tokyo, Japan.
 {:.figure}
 
-### Noodles & Ramen
+### 🍵 Noodles & Ramen 🍵
 
 ## Updated CV
 
