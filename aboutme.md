@@ -52,7 +52,7 @@ Travel map - explored <span style="color:#002993">**8.82%**</span> of the world 
 {:.figure}
 
 ![Yosemite](assets/img/travel/Tokyo.jpg)
-[Yosemite National Park](https://www.nps.gov/yose/index.htm) - Tokyo, Japan.
+Kart racing and wearing of a traditional Japanese Kimono - Tokyo, Japan.
 {:.figure}
 
 ## Updated CV
