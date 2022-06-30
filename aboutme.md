@@ -47,9 +47,5 @@ Travel map - explored <span style="color:#002993">**8.82%**</span> of the world 
 [Yosemite National Park](https://www.nps.gov/yose/index.htm) - Tokyo, Japan.
 {:.figure}
 
-![Yosemite](assets/img/travel/Hawaii.jpg)
-[The Royal Hawaiian](https://www.marriott.com/en-us/hotels/hnllc-the-royal-hawaiian-a-luxury-collection-resort-waikiki/overview/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2&y_source=1_MTUwMzAwNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D) - Honolulu, Hawaii.
-{:.figure}
-
 ## Updated CV
 
