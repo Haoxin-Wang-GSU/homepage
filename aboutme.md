@@ -27,6 +27,13 @@ table {
 {:.stretch-table}
 
 ## Hobbies
+
+### Travel
+
+Life is about the adventures you take and the memories you make.
+
+:golf: A small goal: explore 20% of the world with my family by 2030 :earth_americas:.
+
 ![Travel Map](assets/img/MyTravelMap.png)
 Travel map - explored <span style="color:#002993">**8.82%**</span> of the world (updated by June 2022).
 {:.figure}
