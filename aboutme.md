@@ -32,7 +32,7 @@ table {
 
 Life is about the adventures you take and the memories you make.
 
-🚩 A small goal 🚩 explore 20% of the world with my family by 2030. 🌎
+🚩 A small goal 🚩 explore 20% of the world with my family 👪 by 2030. 🌎
 
 ![Travel Map](assets/img/MyTravelMap.png)
 Travel map - explored <span style="color:#002993">**8.82%**</span> of the world (updated by June 2022).
@@ -54,7 +54,7 @@ Travel map - explored <span style="color:#002993">**8.82%**</span> of the world 
 Kart racing with wearing of a traditional Japanese Kimono - Tokyo, Japan.
 {:.figure}
 
-### 🍵 Noodles & Ramen 🍵
+### 🍜 Noodles & Ramen 🍜
 
 As a Lanzhou native, beef noodle is my "Soul Mate". I tried some Lanzhou noodle restaurants in the USA and Japan. I found some of them are authentic and would love to share with you if you want to give it a shot.
 
@@ -67,8 +67,10 @@ I've started loving Ramen since I travelled in Japan. Also, it is much easier to
 - 👍 Orenchi Ramen: 3540 Homestead Rd, Santa Clara, CA 95051
 
 ![Ramen](assets/img/travel/Ramen.jpg)
-Left - Lanzhou beef noodles; right - Japanese Ramen
+Left - Lanzhou beef noodles 🆚 Right - Japanese Ramen
 {:.figure}
+
+### To Be Continued ▶️
 
 ## Updated CV
 
