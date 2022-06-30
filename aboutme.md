@@ -61,7 +61,10 @@ As a Lanzhou native, beef noodle is my "Soul Mate". I tried some Lanzhou noodle 
 - 👍 馬子禄牛肉面 神保町店: 1 Chome-3-18 Kanda Jinbocho, Chiyoda City, Tokyo 101-0051, Japan
 - 👍 Highland Noodles 金城兰州拉面: 1720 N Milpitas Blvd, Milpitas, CA 95035
 
-I've started loving Ramen since I travelled in Japan. Also, it is much easier to find a good Japanese Ramen restaurant in the USA. Here are 
+I've started loving Ramen since I travelled in Japan. Also, it is much easier to find a good Japanese Ramen restaurant in the USA, especially in CA. Two of my best-loved Ramen restaurants:
+
+- 👍 Ramen Hajime: 5229 Stevens Creek Blvd, Santa Clara, CA 95051
+- 👍 Orenchi Ramen: 3540 Homestead Rd, Santa Clara, CA 95051
 
 ![Ramen](assets/img/travel/Ramen.jpg)
 Left - Lanzhou beef noodles; right - Japanese Ramen
