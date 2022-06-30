@@ -9,7 +9,7 @@ permalink: /patent/
 ---
 > - **[P12]** **Systems and Methods for Efficient Object Tracking as a Service via Edge** <br>
 > Akila Ganlath, <span style="color:#002993">**Haoxin Wang**</span>, Nejib Ammar, Rohit Gupta, and Prashant Tiwari <br>
-> *U.S. patent application, Filed Jun. 2022* <br>
+> *U.S. patent application 17/848,743, Filed Jun. 2022* <br>
 
 > - **[P11]** **Edge Server Selection for In-Vehicle AR/VR Content Distribution with Deep Reinforcement Learning** <br>
 > Siqi Huang, <span style="color:#002993">**Haoxin Wang**</span>, Akila Ganlath, and Prashant Tiwari <br>
