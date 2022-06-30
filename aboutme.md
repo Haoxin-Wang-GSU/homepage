@@ -50,7 +50,7 @@ Travel map - explored <span style="color:#002993">**8.82%**</span> of the world 
 [Yosemite National Park](https://www.nps.gov/yose/index.htm) - CA.
 {:.figure}
 
-![Yosemite](assets/img/travel/Tokyo.jpg)
+![Tokyo](assets/img/travel/Tokyo.jpg)
 Kart racing with wearing of a traditional Japanese Kimono - Tokyo, Japan.
 {:.figure}
 
@@ -60,6 +60,12 @@ As a Lanzhou native, beef noodle is my "Soul Mate". I tried some Lanzhou noodle 
 
 - 👍 馬子禄牛肉面 神保町店: 1 Chome-3-18 Kanda Jinbocho, Chiyoda City, Tokyo 101-0051, Japan
 - 👍 Highland Noodles 金城兰州拉面: 1720 N Milpitas Blvd, Milpitas, CA 95035
+
+I've started loving Ramen since I travelled in Japan. Also, it is much easier to find a good Japanese Ramen restaurant in the USA. Here are 
+
+![Ramen](assets/img/travel/Ramen.jpg)
+Left - Lanzhou beef noodles; right - Japanese Ramen
+{:.figure}
 
 ## Updated CV
 
