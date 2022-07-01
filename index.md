@@ -4,7 +4,6 @@ title: Hey! 🎉
 description: >
   About me.
 hide_description: true
-sitemap: true
 cover: true
 ---
 
