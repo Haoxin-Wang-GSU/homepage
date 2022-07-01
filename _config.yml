@@ -310,7 +310,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /projects/:path/
+    permalink:         /news/:path/
     output:            true
 
 
