@@ -51,7 +51,7 @@ Travel map - explored <span style="color:#002993">**8.82%**</span> of the world 
 {:.figure}
 
 ![Tokyo](assets/img/travel/Tokyo.jpg)
-Kart racing with wearing of a traditional Japanese Kimono - Tokyo, Japan.
+Kart racing wearing of a traditional Japanese Kimono - Tokyo, Japan.
 {:.figure}
 
 ### 🍜 Noodles & Ramen 🍜
