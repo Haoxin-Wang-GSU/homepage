@@ -55,8 +55,6 @@ menu:
     url:               /projects/
   - title:             Research
     url:               /blog/
-  - title:             Documentation
-    url:               /docs/
   - title:             Publications
     url:               /publication/
   - title:             Patents
