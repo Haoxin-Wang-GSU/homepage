@@ -6,7 +6,3 @@ description: >
   Check out the `blog` layout for comparison.
 grouped: true
 ---
-
-# Test
-
-11111111111111111111111111111
