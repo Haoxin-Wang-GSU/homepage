@@ -2,37 +2,36 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <Haoxin> <Wang>
-  email:             <hwang65@gsu.edu>
+  name:              <firstname> <lastname>
+  email:             <mail@domain.tld>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Dr. Haoxin Wang received his B.S. degree in Control Science and Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/), Harbin, China, and Ph.D. degree in the [Department of Electrical and Computer Engineering](https://ece.charlotte.edu/) from [The University of North Carolina-Charlotte](https://www.charlotte.edu/).
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
     
-    Dr. Wang is currently a tenure-track assistant professor in the [Department of Computer Science](https://csds.gsu.edu/) at [Georgia State University (GSU)](https://www.gsu.edu/).
-    Prior to joining GSU, Dr. Wang was a research scientist at Toyota Motor North America R&D - [InfoTech Labs](https://amrd.toyota.com/division/itl/), leading the [Edge Computing Roadmap](https://www.youtube.com/watch?v=vtgYG692-cM). 
-    Dr. Wang's research interests include **mobile augmented reality (AR)/ virtual reality (VR)**, **connected and automated vehicle systems**, and **efficient AI**.
-  
-    <span style="color:red">**Dr. Wang's research lab is actively looking for high-motivated Ph.D. students.**</span> [Job description](/JD_GSU_PhD.pdf)
+    Open `_data/authors.yml` to edit this text.
+
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/haoxin_logo.gif
+    path:            https://placehold.it/128x128
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/haoxin_logo.gif
-      2x:            /assets/img/haoxin_logo.gif
+      1x:            https://placehold.it/128x128
+      2x:            https://placehold.it/256x256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    #twitter:         <username>
-    github:          <>
-    email:           <hwang65@gsu.edu>
+    twitter:         <username>
+    github:          <username>
+    # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
-    google:          https://scholar.google.com/citations?user=4cdwjlQAAAAJ&hl=zh-CN
+    # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
@@ -68,12 +67,16 @@ author1:
     # keybase          <username>
 
 # Another author (optional)
-#author2:
-#  name:              <firtname> <lastname>
-#  email:             <mail@domain.tld>
-#  about:             |
+author2:
+  name:              <firtname> <lastname>
+  email:             <mail@domain.tld>
+  about:             |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+    Open `_data/authors.yml` to edit this text.
 
-#  picture:           https://placehold.it/128x128
-#  twitter:           <username>
-#  github:            <username>
+  picture:           https://placehold.it/128x128
+  twitter:           <username>
+  github:            <username>
