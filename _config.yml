@@ -52,7 +52,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             News
-    url:               /projects/
+    url:               /news/
   - title:             Research
     url:               /blog/
   - title:             Publications
