@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Projects
+title: News
 show_collection: projects
 description: >
   How people are using Hydejack in the real world. 
