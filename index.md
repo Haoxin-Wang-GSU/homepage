@@ -1,13 +1,13 @@
 ---
 layout: about
-title: About Me
+title: Hey! 🎉
 description: >
   About me.
 hide_description: true
 cover: true
 ---
 
-# About Me
+## About Me
 
 <!--author-->
 
