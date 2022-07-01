@@ -1,47 +1,82 @@
 ---
-layout: page
-title: Thank You!
-sitemap: false
+layout: about
+title: Hey! 🎉
+description: >
+  About me.
+hide_description: true
+cover: true
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+## About Me
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+<!--author-->
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+## Background
+1. this list will be replaced by the toc
+{:toc .large-only}
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
+<style>
+table {
+    background-color: #cedbe0;
+}
+</style>
 
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
+:-------------------------:|:-------------------------:
+[![](assets/img/InfoTech_128.png)](https://amrd.toyota.com/division/itl/) |  **Toyota Motor North America, InfoTech Labs** <br> Mountain View, CA <br> Dec. 2020 - Present <br> *Research Scientist* 
+[![](assets/img/InfoTech_128.png)](https://amrd.toyota.com/division/itl/) |  **Toyota Motor North America, InfoTech Labs** <br> Mountain View, CA <br> Jan. 2020 - May. 2020 <br> *Research Intern* 
+[![](assets/img/UNCC_128.png)](https://www.charlotte.edu/) |  **University of North Carolina, Charlotte** <br> Charlotte, NC <br> Sep. 2015 - Oct. 2020 <br> *Ph.D. in Electrical and Computer Engineering* 
+[![](assets/img/HIT_128.jpeg)](http://en.hit.edu.cn/) |  **Harbin Institute of Technology** <br> Harbin, China <br> Aug. 2010 - Jun. 2014 <br> *B.S. in Control Science and Engineering* 
+{:.stretch-table}
 
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+## Hobbies
+
+### ✈️ Travel ✈️
+
+Life is about the adventures you take and the memories you make.
+
+🚩 A small goal 🚩 explore 20% of the world with my family 👪 by 2030. 🌎
+
+![Travel Map](assets/img/MyTravelMap.png)
+Travel map - explored <span style="color:#002993">**8.82%**</span> of the world (updated by June 2022).
+{:.figure}
+
+![Atlanta](assets/img/travel/Atlanta.jpg)
+[Georgia Aquarium](https://www.georgiaaquarium.org/) - Atlanta, GA.
+{:.figure}
+
+![Paris](assets/img/travel/paris.jpg)
+[Musée du Louvre](https://www.louvre.fr/zh-hans) - Paris, France.
+{:.figure}
+
+![Yosemite](assets/img/travel/Yosemite.jpg)
+[Yosemite National Park](https://www.nps.gov/yose/index.htm) - CA.
+{:.figure}
+
+![Tokyo](assets/img/travel/Tokyo.jpg)
+Kart racing wearing a traditional Japanese Kimono - Tokyo, Japan.
+{:.figure}
+
+### 🍜 Noodles & Ramen 🍜
+
+As a Lanzhou native, beef noodle is my "Soul Mate". I tried some Lanzhou noodle restaurants in the USA and Japan. I found some of them are authentic and would love to share with you if you want to give it a shot.
+
+- 👍 馬子禄牛肉面 神保町店: 1 Chome-3-18 Kanda Jinbocho, Chiyoda City, Tokyo 101-0051, Japan
+- 👍 Highland Noodles 金城兰州拉面: 1720 N Milpitas Blvd, Milpitas, CA 95035
+
+I've started loving Ramen since I travelled in Japan. Also, it is much easier to find a good Japanese Ramen restaurant in the USA, especially in CA. Two of my best-loved Ramen restaurants:
+
+- 👍 Ramen Hajime: 5229 Stevens Creek Blvd, Santa Clara, CA 95051
+- 👍 Orenchi Ramen: 3540 Homestead Rd, Santa Clara, CA 95051
+
+![Ramen](assets/img/travel/Ramen.jpg)
+Left - Lanzhou beef noodles 🆚 Right - Japanese Ramen
+{:.figure}
+
+### To Be Continued ▶️
+
+## Updated CV
+
+## Vistors
+
+<a href='https://clustrmaps.com/site/1bp6s'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=800&t=m&d=pSUBv2eDiNkhj99-hbiOb7bATU7QLzY9RcvwgrT-KjE&co=002993'/></a>
