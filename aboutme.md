@@ -74,5 +74,6 @@ Left - Lanzhou beef noodles 🆚 Right - Japanese Ramen
 
 ## Updated CV
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=pSUBv2eDiNkhj99-hbiOb7bATU7QLzY9RcvwgrT-KjE"></script>
+## ClustrMaps
+
 
