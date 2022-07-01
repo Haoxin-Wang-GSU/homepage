@@ -315,7 +315,7 @@ collections:
 
   projects:
     permalink:         /projects/:path/
-    output:            false
+    output:            true
 
 
 # File inclusion/exclusion
