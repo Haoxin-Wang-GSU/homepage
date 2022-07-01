@@ -4,6 +4,7 @@ title: Hey! 🎉
 description: >
   About me.
 hide_description: true
+sitemap: true
 cover: true
 ---
 
@@ -11,7 +12,6 @@ cover: true
 
 <!--author-->
 
-## News
 
 ## Background
 1. this list will be replaced by the toc
