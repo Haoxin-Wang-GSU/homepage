@@ -54,6 +54,8 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             News
+    url:               /projects/
   - title:             Research
     url:               /example/
   - title:             Publications
