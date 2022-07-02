@@ -48,3 +48,21 @@ This Special Issue, “Machine Learning for Next-Generation Wireless Networks an
 Dr. Qiang Liu
 Dr. Tao Han
 Dr. Haoxin Wang
+
+**Manuscript Submission Information**
+
+Manuscripts should be submitted online at www.mdpi.com by [registering](https://susy.mdpi.com/) and [logging in to this website](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fwww.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue). Once you are registered, [click here](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) to go to the submission form. Manuscripts can be submitted until the deadline. All submissions that pass pre-check are peer-reviewed. Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Research articles, review articles as well as short communications are invited. For planned papers, a title and short abstract (about 100 words) can be sent to the Editorial Office for announcement on this website.
+
+Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except conference proceedings papers). All manuscripts are thoroughly refereed through a single-blind peer-review process. A guide for authors and other relevant information for submission of manuscripts is available on the [Instructions for Authors](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) page. Electronics is an international peer-reviewed open access semimonthly journal published by MDPI.
+
+Please visit the [Instructions for Authors](https://login.mdpi.com/login?_target_path=https%3A%2F%2Fsusy.mdpi.com%2Fuser%2Flogin%3FauthAll%3Dtrue) page before submitting a manuscript. The [Article Processing Charge (APC)](https://www.mdpi.com/about/apc) for publication in this [open access](https://www.mdpi.com/about/openaccess) journal is 2000 CHF (Swiss Francs). Submitted papers should be well formatted and use good English. Authors may use MDPI's [English editing service](https://www.mdpi.com/authors/english) prior to publication or during author revisions.
+
+Keywords
+- machine learning
+- deep learning
+- deep reinforcement learning
+- resource management
+- routing
+- congestion control
+- wireless communication
+- edge computing
