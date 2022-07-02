@@ -6,9 +6,9 @@ description: >
   We announced the Call-for-Paper for the MDPI Special Issue: "Machine Learning for Next-Generation Wireless Networks and Computing Systems". Researchers from all fields are encouraged to submit their papers by Dec. 10, 2022.
 date: 1 Jun 2022
 image: 
-  path: /assets/img/projects/qwtel.jpg
+  path: /assets/img/news/MDPI.jpg
   srcset: 
-    1920w: /assets/img/projects/qwtel.jpg
+    1920w: /assets/img/news/MDPI.jpg
     960w:  /assets/img/projects/qwtel@0,5x.jpg
     480w:  /assets/img/projects/qwtel@0,25x.jpg
 links:
