@@ -1,11 +1,11 @@
 ---
 layout: project
 title: 'Call-for-Paper'
-caption: How I use Hydejack on my personal site.
+caption: We announced the Call-for-Paper for the MDPI Special Issue: "Machine Learning for Next-Generation Wireless Networks and Computing Systems". Researchers from all fields are encouraged to submit their papers by Dec. 10, 2022.
 description: >
   This is how I use Hydejack on my personal site. 
   Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
-date: 1 Jun 2020
+date: 1 Jun 2022
 image: 
   path: /assets/img/projects/qwtel.jpg
   srcset: 
