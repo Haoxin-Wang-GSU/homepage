@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Call-for-Paper'
+title: 'Call-for-Paper (06/01/2022)'
 caption: We announced the Call-for-Paper for the MDPI Special Issue, *Machine Learning for Next-Generation Wireless Networks and Computing Systems*.
 description: >
   We announced the Call-for-Paper for the MDPI Special Issue: "Machine Learning for Next-Generation Wireless Networks and Computing Systems". Researchers from all fields are encouraged to submit their papers by Dec. 10, 2022.
