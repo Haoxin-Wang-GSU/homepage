@@ -9,8 +9,8 @@ image:
   path: /assets/img/news/MDPI.png
   srcset: 
     1920w: /assets/img/news/MDPI.png
-    960w:  /assets/img/projects/qwtel@0,5x.jpg
-    480w:  /assets/img/projects/qwtel@0,25x.jpg
+    960w:  /assets/img/news/MDPI.png
+    480w:  /assets/img/news/MDPI.png
 links:
   - title: Link
     url: https://qwtel.com/
