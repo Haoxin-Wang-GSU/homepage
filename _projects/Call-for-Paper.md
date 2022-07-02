@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Call-for-Paper'
-caption: We announced the Call-for-Paper for the MDPI Special Issue: "Machine Learning for Next-Generation Wireless Networks and Computing Systems".
+caption: 1
 description: >
   This is how I use Hydejack on my personal site. 
   Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
