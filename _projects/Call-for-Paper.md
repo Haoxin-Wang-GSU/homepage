@@ -45,9 +45,9 @@ This Special Issue, “Machine Learning for Next-Generation Wireless Networks an
 - machine learning for emerging applications, e.g., autonomous driving, augmented reality, and unmanned aerial vehicles;
 - machine learning for emerging scenarios, e.g., edge computing, precise agriculture, and smart cities.
 
-Dr. Qiang Liu
-Dr. Tao Han
-Dr. Haoxin Wang
+Dr. Qiang Liu <br>
+Dr. Tao Han <br>
+Dr. Haoxin Wang <br>
 
 **Manuscript Submission Information**
 
