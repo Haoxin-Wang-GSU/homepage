@@ -5,7 +5,6 @@ description: >
   About me.
 hide_description: true
 cover: true
-accent_image:          /assets/img/GSU_1920x720.png
 ---
 
 ## About Me
