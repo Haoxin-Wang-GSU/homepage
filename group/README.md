@@ -8,8 +8,12 @@ sitemap: false
 permalink: /group/
 ---
 
-## Current Students (At The META Lab, Department of Computer Science, Georgia State University)
+# Current Mentored Students 
 
-## Past Mentored Students (At InfoTech Labs, Toyota Motor North America)
+## @Georgia State University
+
+# Past Mentored Students 
+
+## @InfoTech Labs, Toyota Motor North America
 
 
