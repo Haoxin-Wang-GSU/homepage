@@ -25,4 +25,6 @@ permalink: /group/
 [![](/assets/img/HIT_128.jpeg)](http://en.hit.edu.cn/) |  **Harbin Institute of Technology** <br> Harbin, China <br> Aug. 2010 - Jun. 2014 <br> *B.S. in Control Science and Engineering* 
 {:.stretch-table}
 
+![Travel Map](assets/img/MyTravelMap.png)
+
 
