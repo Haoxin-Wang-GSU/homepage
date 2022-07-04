@@ -8,12 +8,12 @@ sitemap: false
 permalink: /group/
 ---
 
-# Current Mentored Students 
+## Current Mentored Students 
 
-## @Georgia State University
+### @Georgia State University
 
-# Past Mentored Students 
+## Past Mentored Students 
 
-## @InfoTech Labs, Toyota Motor North America
+### @InfoTech Labs, Toyota Motor North America
 
 
