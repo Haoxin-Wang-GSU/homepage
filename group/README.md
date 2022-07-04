@@ -12,6 +12,8 @@ permalink: /group/
 
 ### @Georgia State University
 
+<span style="color:red">**Dr. Wang's research lab is actively looking for high-motivated Ph.D. students.**</span> [Details](/JD_GSU_PhD.pdf)
+
 ## Past Mentored Students 
 
 ### @InfoTech Labs, Toyota Motor North America
