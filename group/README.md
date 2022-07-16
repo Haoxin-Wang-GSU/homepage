@@ -18,7 +18,6 @@ permalink: /group/
 
 ### @InfoTech Labs, Toyota Motor North America
 
-![Yosemite](homepage.github.io/assets/img/travel/Yosemite.jpg)
 ![Yuhan Kang](img/Yuhan.jpg)
-
+![Siqi Huang](img/Siqi.png)
 
