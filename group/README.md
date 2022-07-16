@@ -20,4 +20,6 @@ permalink: /group/
 
 ![Full-width image](https://via.placeholder.com/800x100){:.lead width="800" height="100" loading="lazy"}
 
+![Yosemite](assets/img/travel/Yosemite.jpg)
+
 
