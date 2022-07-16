@@ -20,4 +20,5 @@ permalink: /group/
 
 ![Yuhan Kang](img/Yuhan.jpg)
 ![Siqi Huang](img/Siqi.png)
+![Yitao Chen](img/Yitao.jpg)
 
