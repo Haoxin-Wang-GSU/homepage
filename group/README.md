@@ -15,7 +15,7 @@ permalink: /group/
 ### 📍 Georgia State University
 
 ### Open Positions
-<span style="color:red">**Dr. Wang's research lab is actively looking for high-motivated Ph.D. students.**</span> [Details](/JD_GSU_PhD.pdf)📎
+<span style="color:red">**Dr. Wang's research lab is actively looking for high-motivated Ph.D. students, please refer to [Details](/JD_GSU_PhD.pdf) for more information.**</span>
 
 ## Past Mentored Students 
 
@@ -26,3 +26,7 @@ permalink: /group/
 ![Siqi Huang](img/Siqi.png) |  <span style="color:#002993">**Siqi Huang - 2021 Summer Research Co-op**</span> <br> 🔹*Current status: Assistant Professor in [AI and Advanced Computing School](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing/) at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/) in Suzhou, P. R. China* <br> 🔹Ph.D. advisor: [Jiang (Linda) Xie](https://webpages.charlotte.edu/~jxie1/index.html)<br> 🔹Research Interests: Big data driven network design & optimization, cloud/edge computing, VR/AR, data mining, machine learning <br> <br> <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINKEDIN</span>](https://www.linkedin.com/in/siqi-huang-58546311b/)</button> <button style="background-color:#002993; border-color:#002993">[<span style="color:white">GOOGLE SCHOLAR</span>](https://scholar.google.com/citations?user=vzx23bkAAAAJ&hl=en)</button>
 ![Yuhan Kang](img/Yuhan.jpg)|  <span style="color:#002993">**Yuhan Kang - 2021 Spring Research Co-op**</span> <br> 🔹*Current status: Ph.D. student in the Department of Electrical and Computer Engineering at the University of Houston* <br> 🔹Ph.D. advisor: [Zhu Han](http://www2.egr.uh.edu/~zhan2/) <br> 🔹Research Interests: Game theory, mean-field games, mobile crowdsensing, edge computing <br> <br> <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINKEDIN</span>](https://www.linkedin.com/in/yuhan-kang-54496920a/)</button> <button style="background-color:#002993; border-color:#002993">[<span style="color:white">GOOGLE SCHOLAR</span>](https://scholar.google.com/citations?user=9ovlDvQAAAAJ&hl=zh-CN)</button>
 {:.stretch-table}
+
+
+
+ <font size="24">**Yitao Chen - 2022 Summer Research Co-op**</font>
