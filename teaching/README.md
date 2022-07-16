@@ -8,5 +8,5 @@ sitemap: false
 permalink: /teaching/
 ---
 
-## Coming soon!
-
+## Fall 2022
+> - CSC4980/6980 Topics in Computer Science: Security in IoT <br>
