@@ -20,7 +20,7 @@ permalink: /group/
 ### @InfoTech Labs, Toyota Motor North America
 
 :-------------------------:|:-------------------------:
-![Yitao Chen](img/Yitao.jpg)|  **Yitao Chen - 2022 Summer Co-op** <br> Current status: <br> Dec. 2020 - Present <br> *Research Scientist* 
-![Siqi Huang](img/Siqi.png)|  **Siqi Huang - 2021 Summer Co-op** <br> Current status: <br> Jan. 2020 - May. 2020 <br> *Research Intern* 
-![Yuhan Kang](img/Yuhan.jpg)|  **Yuhan Kang - 2021 Spring Co-op** <br> Current status: <br> Sep. 2015 - Oct. 2020 <br> *Ph.D. in Electrical and Computer Engineering* 
+![Yitao Chen](img/Yitao.jpg)|  **Yitao Chen - 2022 Summer Co-op** <br> Current status: <br> Ph.D. advisor: <br> 
+![Siqi Huang](img/Siqi.png)|  **Siqi Huang - 2021 Summer Co-op** <br> Current status: <br> Ph.D. advisor: <br> 
+![Yuhan Kang](img/Yuhan.jpg)|  **Yuhan Kang - 2021 Spring Co-op** <br> Current status: <br> Ph.D. advisor: <br>  
 {:.stretch-table}
