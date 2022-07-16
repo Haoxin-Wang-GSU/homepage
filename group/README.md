@@ -7,6 +7,8 @@ hide_description: true
 sitemap: false
 permalink: /group/
 ---
+1. this list will be replaced by the toc
+{:toc .large-only}
 
 ## Current Mentored Students 
 
