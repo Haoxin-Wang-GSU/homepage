@@ -20,7 +20,7 @@ permalink: /group/
 ### @InfoTech Labs, Toyota Motor North America
 
 :-------------------------:|:-------------------------:
-![Yitao Chen](img/Yitao.jpg)|  **Yitao Chen - 2022 Summer Co-op** <br> *Current status: Ph.D. student in the School of Computing and Augmented Intelligence at Arizona State University* <br> Ph.D. advisor: [Ming Zhao](http://visa.lab.asu.edu/web/people/mingzhao/) <br> 
-![Siqi Huang](img/Siqi.png)|  **Siqi Huang - 2021 Summer Co-op** <br> *Current status: Assistant Professor in AI and Advanced Computing School at Xi'an Jiaotong-Liverpool University in Suzhou, P. R. China* <br> Ph.D. advisor: [Jiang (Linda) Xie](https://webpages.charlotte.edu/~jxie1/index.html) <br> 
-![Yuhan Kang](img/Yuhan.jpg)|  **Yuhan Kang - 2021 Spring Co-op** <br> *Current status: Ph.D. student in the Department of Electrical and Computer Engineering at the University of Houston* <br> Ph.D. advisor: [Zhu Han](http://www2.egr.uh.edu/~zhan2/) <br>  
+![Yitao Chen](img/Yitao.jpg)|  <span style="color:red">**Yitao Chen - 2022 Summer Co-op**</span> <br> *Current status: Ph.D. student in the School of Computing and Augmented Intelligence at Arizona State University* <br> Ph.D. advisor: [Ming Zhao](http://visa.lab.asu.edu/web/people/mingzhao/) <br> 
+![Siqi Huang](img/Siqi.png) |  <span style="color:red">**Siqi Huang - 2021 Summer Co-op**</span> <br> *Current status: Assistant Professor in AI and Advanced Computing School at Xi'an Jiaotong-Liverpool University in Suzhou, P. R. China* <br> Ph.D. advisor: [Jiang (Linda) Xie](https://webpages.charlotte.edu/~jxie1/index.html) <br> 
+![Yuhan Kang](img/Yuhan.jpg)|  <span style="color:red">**Yuhan Kang - 2021 Spring Co-op**</span> <br> *Current status: Ph.D. student in the Department of Electrical and Computer Engineering at the University of Houston* <br> Ph.D. advisor: [Zhu Han](http://www2.egr.uh.edu/~zhan2/) <br>  
 {:.stretch-table}
