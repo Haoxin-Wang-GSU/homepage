@@ -18,11 +18,6 @@ permalink: /group/
 
 ### @InfoTech Labs, Toyota Motor North America
 
-![Yuhan Kang](img/Yuhan.jpg)
-![Siqi Huang](img/Siqi.png)
-![Yitao Chen](img/Yitao.jpg)
-
-
 :-------------------------:|:-------------------------:
 ![Yitao Chen](img/Yitao.jpg)|  **Toyota Motor North America, InfoTech Labs** <br> Mountain View, CA <br> Dec. 2020 - Present <br> *Research Scientist* 
 ![Siqi Huang](img/Siqi.png)|  **Toyota Motor North America, InfoTech Labs** <br> Mountain View, CA <br> Jan. 2020 - May. 2020 <br> *Research Intern* 
