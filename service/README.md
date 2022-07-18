@@ -16,6 +16,7 @@ permalink: /service/
 > - Special Issue on [Machine Learning for Next-Generation Wireless Networks and Computing Systems](https://www.mdpi.com/journal/electronics/special_issues/ML_wireless), MDPI Electronics Open Access Journal, December 2022 <br>
 
 ## Journal Reviewer
+> - IEEE Vehicular Technology Magazine, 2022 <br>
 > - IEEE Transactions on Mobile Computing, 2017, 2018, 2019, 2020, 2022 <br>
 > - IEEE Transactions on Sustainable Computing, 2022 <br>
 > - IEEE Open Journal of the Communications Society, 2022 <br>
