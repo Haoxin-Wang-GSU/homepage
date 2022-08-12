@@ -70,7 +70,6 @@ Left - Lanzhou beef noodles 🆚 Right - Japanese Ramen
 
 ### To Be Continued ▶️
 
-## Updated CV
 
 ## Vistors
 
