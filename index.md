@@ -17,8 +17,8 @@ cover: true
 {:toc .large-only}
 
 :-------------------------:|:-------------------------:
-[![](assets/img/GSU_128.png)](https://www.gsu.edu/) |  **Georgia State University, Computer Science Department** <br> Atlanta, GA <br> Aug. 2022 - Present <br> *Tenure-Track Assistant Professor* 
-[![](assets/img/InfoTech_128.png)](https://amrd.toyota.com/division/itl/) |  **Toyota Motor North America, InfoTech Labs** <br> Mountain View, CA <br> Dec. 2020 - Present <br> *Research Scientist* 
+[![](assets/img/GSU_128.png)](https://map.concept3d.com/?id=1108#!ct/0) |  **Georgia State University, Computer Science Department** <br> Atlanta, GA <br> Aug. 2022 - Present <br> *Tenure-Track Assistant Professor* 
+[![](assets/img/InfoTech_128.png)](https://amrd.toyota.com/division/itl/) |  **Toyota Motor North America, InfoTech Labs** <br> Mountain View, CA <br> Dec. 2020 - Aug. 2022 <br> *Research Scientist* 
 [![](assets/img/InfoTech_128.png)](https://amrd.toyota.com/division/itl/) |  **Toyota Motor North America, InfoTech Labs** <br> Mountain View, CA <br> Jan. 2020 - May. 2020 <br> *Research Intern* 
 [![](assets/img/UNCC_128.png)](https://www.charlotte.edu/) |  **University of North Carolina, Charlotte** <br> Charlotte, NC <br> Sep. 2015 - Oct. 2020 <br> *Ph.D. in Electrical and Computer Engineering* 
 [![](assets/img/HIT_128.jpeg)](http://en.hit.edu.cn/) |  **Harbin Institute of Technology** <br> Harbin, China <br> Aug. 2010 - Jun. 2014 <br> *B.S. in Control Science and Engineering* 
