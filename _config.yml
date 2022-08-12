@@ -54,7 +54,7 @@ menu:
   - title:             News
     url:               /news/
   - title:             Research
-    url:               /blog/
+    url:               /Research/
   - title:             Publications
     url:               /publication/
   - title:             Patents
