@@ -7,6 +7,10 @@ hide_description: true
 sitemap: false
 permalink: /patent/
 ---
+> - **[P13]** **Methods and Systems for Delivering Edge-Assisted Attention-Aware High Definition Map** <br>
+> Dawei Chen, <span style="color:#002993">**Haoxin Wang**</span>, and Kyungtae Han <br>
+> *U.S. patent application 17/877,104, Filed July. 2022* <br>
+
 > - **[P12]** **Systems and Methods for Efficient Object Tracking as a Service via Edge** <br>
 > Akila Ganlath, <span style="color:#002993">**Haoxin Wang**</span>, Nejib Ammar, Rohit Gupta, and Prashant Tiwari <br>
 > *U.S. patent application 17/848,743, Filed Jun. 2022* <br>
