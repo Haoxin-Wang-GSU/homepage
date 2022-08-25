@@ -31,7 +31,7 @@ tagline:
   Assistant Professor <br>
   Department of Computer Science <br>
   Georgia State University <br>
-  hwang65@gsu.edu <br>
+  haoxinwang@gsu.edu <br>
 
 # A list of keywords for your blog
 keywords:              []
@@ -45,7 +45,7 @@ logo:                  /assets/img/haoxin_logo.png
 author:
   # Used by `jekyll-feed`:
   name:                <Haoxin> <Wang>
-  email:               <hwang65@gsu.edu>
+  email:               <haoxinwang@gsu.edu>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
