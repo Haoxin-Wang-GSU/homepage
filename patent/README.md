@@ -9,7 +9,7 @@ permalink: /patent/
 ---
 > - **[P14]** **Methods and Systems for Distributing High Definition Map Using Edge Device** <br>
 > Dawei Chen, <span style="color:#002993">**Haoxin Wang**</span>, and Kyungtae Han <br>
-> *U.S. patent application, Filed August. 2022* <br>
+> *U.S. patent application 17/896,396, Filed August. 2022* <br>
 
 > - **[P13]** **Methods and Systems for Delivering Edge-Assisted Attention-Aware High Definition Map** <br>
 > Dawei Chen, <span style="color:#002993">**Haoxin Wang**</span>, and Kyungtae Han <br>
