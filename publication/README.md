@@ -11,25 +11,25 @@ permalink: /publication/
 ## Journals
 > - **[TMC'22]** **LEAF + AIO: Edge-Assisted Energy-Aware Object Detection for Mobile Augmented Reality** <br>
 > <span style="color:#002993">**Haoxin Wang**</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
-> *IEEE Transactions on Mobile Computing, Early Access.* (IF: 6.075) <br>
+> *IEEE Transactions on Mobile Computing, Early Access.* (IF: **6.075**) <br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://arxiv.org/pdf/2205.13770.pdf)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9787708)</button>
 
 > - **[IOTJ'22]** **Mobility Digital Twin: Concept, Architecture, Case Studies, and Challenges** <br>
 > [Ziran Wang][Ziran], Rohit Gupta, Kyungtae Han, <span style="color:#002993">**Haoxin Wang**</span>, Akila Ganlath, Nejib Ammar, and Prashant Tiwari <br>
-> *IEEE Internet of Things Journal, Early Access.* (IF: 10.238)<br>
+> *IEEE Internet of Things Journal, Early Access.* (IF: **10.238**)<br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://www.researchgate.net/profile/Ziran-Wang-6/publication/358970927_Mobility_Digital_Twin_Concept_Architecture_Case_Study_and_Future_Challenges/links/6223c63384ce8e5b4d088be4/Mobility-Digital-Twin-Concept-Architecture-Case-Study-and-Future-Challenges.pdf)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9724183)</button>
 
 > - **[TGCN'21]** **Energy Drain of the Object Detection Processing Pipeline for Mobile Devices: Analysis and Implications** <br>
 > <span style="color:#002993">**Haoxin Wang**</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
-> *IEEE Transactions on Green Communications and Networking, vol.5, no.1, pp.41-60, 2021* (IF: 3.525)<br>
+> *IEEE Transactions on Green Communications and Networking, vol.5, no.1, pp.41-60, 2021* (IF: **3.525**)<br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://arxiv.org/pdf/2011.13075.pdf)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9274509)</button>
 
 > - **[COMST'20]** **Architectural Design Alternatives based on Cloud/Edge/Fog Computing for Connected Vehicles** <br>
 > <span style="color:#002993">**Haoxin Wang**</span>, Tingting Liu, [BaekGyu Kim][Bkim], [Chung-Wei Lin][Lin], Shinichi Shiraishi, [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
-> *IEEE Communications Surveys and Tutorials, vol.22, no.4, pp.2349-2377, Fourthquarter 2020.* (IF: 25.25)<br>
+> *IEEE Communications Surveys and Tutorials, vol.22, no.4, pp.2349-2377, Fourthquarter 2020.* (IF: **25.25**)<br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://arxiv.org/pdf/2009.12509.pdf)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9184917)</button>
 
@@ -54,7 +54,7 @@ permalink: /publication/
 > - **[INFOCOM'20]** **User Preference Based Energy-Aware Mobile AR System with Edge Computing** <br>
 > <span style="color:#002993">**Haoxin Wang**</span> and [Jiang (Linda) Xie][Linda] <br>
 > *IEEE International Conference on Computer Communications, Toronto, ON, Canada, July 2020.* <br>
-> (Acceptance ratio: 19.8%, 268 out of 1354)<br>
+> (Acceptance ratio: **19.8%**, 268 out of 1354)<br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://par.nsf.gov/servlets/purl/10205860)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9155517)</button>
 
@@ -73,7 +73,7 @@ permalink: /publication/
 > - **[SECON'18]** **Rethinking Mobile Devices' Energy Efficiency in WLAN Management Services** <br>
 > <span style="color:#002993">**Haoxin Wang**</span>, [Jiang (Linda) Xie][Linda], and [Xingya Liu][Xingya] <br>
 > *IEEE International Conference on Sensing, Communication and Networking, Hongkong, China, June 2018.* <br>
-> (Acceptance ratio: 23.2%, 49 out of 211)<br>
+> (Acceptance ratio: **23.2%**, 49 out of 211)<br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](/paper/SECON18.pdf)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/8397137)</button>
 
