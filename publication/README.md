@@ -54,6 +54,7 @@ permalink: /publication/
 > - **[INFOCOM'20]** **User Preference Based Energy-Aware Mobile AR System with Edge Computing** <br>
 > <span style="color:#002993">**Haoxin Wang**</span> and [Jiang (Linda) Xie][Linda] <br>
 > *IEEE International Conference on Computer Communications, Toronto, ON, Canada, July 2020.* <br>
+> (Acceptance ratio: 19.8%, 268 out of 1354)<br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://par.nsf.gov/servlets/purl/10205860)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9155517)</button>
 
@@ -72,6 +73,7 @@ permalink: /publication/
 > - **[SECON'18]** **Rethinking Mobile Devices' Energy Efficiency in WLAN Management Services** <br>
 > <span style="color:#002993">**Haoxin Wang**</span>, [Jiang (Linda) Xie][Linda], and [Xingya Liu][Xingya] <br>
 > *IEEE International Conference on Sensing, Communication and Networking, Hongkong, China, June 2018.* <br>
+> (Acceptance ratio: 23.2%, 49 out of 211)<br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](/paper/SECON18.pdf)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/8397137)</button>
 
