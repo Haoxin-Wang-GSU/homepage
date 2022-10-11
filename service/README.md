@@ -19,6 +19,7 @@ permalink: /service/
 ## Journal Reviewer
 > - IEEE Vehicular Technology Magazine, 2022 <br>
 > - IEEE Network Magazine, 2022 <br>
+> - IEEE Internet of Things Journal, 2022 <br>
 > - IEEE Transactions on Mobile Computing, 2017, 2018, 2019, 2020, 2022 <br>
 > - IEEE Transactions on Sustainable Computing, 2022 <br>
 > - IEEE Open Journal of the Communications Society, 2022 <br>
@@ -28,6 +29,7 @@ permalink: /service/
 > - IEEE Communications Letters, 2018 <br>
 > - IEEE Access, 2018 <br>
 > - Computer Networks Journal (Elsevier), 2016, 2017 <br>
+
 
 ## National Science Foundation (NSF) Panelist
 
