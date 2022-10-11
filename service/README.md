@@ -18,6 +18,7 @@ permalink: /service/
 
 ## Journal Reviewer
 > - IEEE Vehicular Technology Magazine, 2022 <br>
+> - IEEE Network Magazine, 2022 <br>
 > - IEEE Transactions on Mobile Computing, 2017, 2018, 2019, 2020, 2022 <br>
 > - IEEE Transactions on Sustainable Computing, 2022 <br>
 > - IEEE Open Journal of the Communications Society, 2022 <br>
