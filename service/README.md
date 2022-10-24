@@ -8,13 +8,17 @@ sitemap: false
 permalink: /service/
 ---
 
+## Editorial Board Member
+> - Associate Editor, IEEE Internet of Things Journal (IoT-J), 2022 - Present
+
+## Journal Special Issue Guest Editor
+> - Special Issue on [Machine Learning for Next-Generation Wireless Networks and Computing Systems](https://www.mdpi.com/journal/electronics/special_issues/ML_wireless), MDPI Electronics Open Access Journal, December 2022 <br>
+
 ## Member of Technical Program Committee (TPC)
 > - [**[INFOCOM 2023]**](https://infocom2023.ieee-infocom.org/) IEEE International Conference on Computer Communications <br>
 > - [**[MASS 2022]**](https://sites.google.com/view/ieee-mass-2022) IEEE International Conference on Mobile Ad-Hoc and Smart Systems <br>
 > - [**[SEC 2022] (Poster/Demo Track)**](http://acm-ieee-sec.org/2022/call%20for%20posters.php) ACM/IEEE Symposium on Edge Computing <br>
 > - [**[ICCCN 2023]**](http://www.icccn.org/) The 32nd International Conference on Computer Communications and Networks <br>
-## Journal Special Issue Guest Editor
-> - Special Issue on [Machine Learning for Next-Generation Wireless Networks and Computing Systems](https://www.mdpi.com/journal/electronics/special_issues/ML_wireless), MDPI Electronics Open Access Journal, December 2022 <br>
 
 ## Journal Reviewer
 > - IEEE Vehicular Technology Magazine, 2022 <br>
