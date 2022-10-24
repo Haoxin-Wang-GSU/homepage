@@ -7,7 +7,7 @@ hide_description: true
 sitemap: false
 permalink: /patent/
 ---
-> - **[P14]** **Systems and Methods for Contribution-Aware Federated Learning** <br>
+> - **[P15]** **Systems and Methods for Contribution-Aware Federated Learning** <br>
 > Yitao Chen, <span style="color:#002993">**Haoxin Wang**</span>, Dawei Chen, and Kyungtae Han <br>
 > *U.S. patent application 17/965,138, Filed August. 2022* <br>
 
