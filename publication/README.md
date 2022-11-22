@@ -9,6 +9,15 @@ permalink: /publication/
 ---
 
 ## Journals
+
+> - **[TVT'22]** **Time Efficient Offloading Optimization in Automotive Multi-access Edge Computing Networks Using Mean-Field Games** <br>
+> Yuhan Kang, <span style="color:#002993">**Haoxin Wang**</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], Xiao-Ping Zhang, and [Zhu Han][Zhu] <br>
+> *IEEE Transactions on Vehicular Technology, Accepted.* (IF: **6.239**) <br>
+
+> - **[T-IV'22]** **Love of Variety based Latency Analysis for High Definition Map Updating: Age of Information and Distributional Robust Perspectives** <br>
+> Dawei Chen, Yifei Zhu, Dan Wang, <span style="color:#002993">**Haoxin Wang**</span>, [Jiang (Linda) Xie][Linda], Xiao-Ping Zhang, and [Zhu Han][Zhu] <br>
+> *IEEE Transactions on Intelligent Vehicles, Accepted.* (IF: **5.009**) <br>
+
 > - **[TMC'22]** **LEAF + AIO: Edge-Assisted Energy-Aware Object Detection for Mobile Augmented Reality** <br>
 > <span style="color:#002993">**Haoxin Wang**</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
 > *IEEE Transactions on Mobile Computing, Early Access.* (IF: **6.075**) <br>
