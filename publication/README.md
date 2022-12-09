@@ -8,14 +8,17 @@ sitemap: false
 permalink: /publication/
 ---
 
+## Under Review
+
+
 ## 2022
 > - **[TVT'22]** **Time Efficient Offloading Optimization in Automotive Multi-access Edge Computing Networks Using Mean-Field Games** <br>
 > Yuhan Kang, <span style="color:#002993">**Haoxin Wang**</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], Xiao-Ping Zhang, and [Zhu Han][Zhu] <br>
-> *IEEE Transactions on Vehicular Technology, Accepted.* (IF: **6.239**) <br>
+> *IEEE Transactions on Vehicular Technology, Early Access.* (IF: **6.239**) <br>
 
 > - **[T-IV'22]** **Love of Variety based Latency Analysis for High Definition Map Updating: Age of Information and Distributional Robust Perspectives** <br>
 > Dawei Chen, Yifei Zhu, Dan Wang, <span style="color:#002993">**Haoxin Wang**</span>, [Jiang (Linda) Xie][Linda], Xiao-Ping Zhang, and [Zhu Han][Zhu] <br>
-> *IEEE Transactions on Intelligent Vehicles, Accepted.* (IF: **5.009**) <br>
+> *IEEE Transactions on Intelligent Vehicles, Early Access.* (IF: **5.009**) <br>
 
 > - **[TMC'22]** **LEAF + AIO: Edge-Assisted Energy-Aware Object Detection for Mobile Augmented Reality** <br>
 > <span style="color:#002993">**Haoxin Wang**</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
@@ -25,7 +28,7 @@ permalink: /publication/
 
 > - **[IOTJ'22]** **Mobility Digital Twin: Concept, Architecture, Case Studies, and Challenges** <br>
 > [Ziran Wang][Ziran], Rohit Gupta, Kyungtae Han, <span style="color:#002993">**Haoxin Wang**</span>, Akila Ganlath, Nejib Ammar, and Prashant Tiwari <br>
-> *IEEE Internet of Things Journal, Early Access.* (IF: **10.238**)<br>
+> *IEEE Internet of Things Journal, vol.9, no.18, pp.17452-17467, 2022.* (IF: **10.238**)<br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://www.researchgate.net/profile/Ziran-Wang-6/publication/358970927_Mobility_Digital_Twin_Concept_Architecture_Case_Study_and_Future_Challenges/links/6223c63384ce8e5b4d088be4/Mobility-Digital-Twin-Concept-Architecture-Case-Study-and-Future-Challenges.pdf)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9724183)</button>
 
