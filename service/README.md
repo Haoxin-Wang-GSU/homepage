@@ -14,10 +14,18 @@ permalink: /service/
 ## Journal Special Issue Guest Editor
 > - Special Issue on [Machine Learning for Next-Generation Wireless Networks and Computing Systems](https://www.mdpi.com/journal/electronics/special_issues/ML_wireless), MDPI Electronics Open Access Journal, December 2022 <br>
 
+## Organizer
+> - [**[INFOCOM 2023] (Keynote & Panel Chair)**](https://2023.ieee-iv.org/workshops/) IEEE International Conference on Computer Communications (INFOCOM 2023), Workshop on Next-generation Open and Programmable Radio Access Networks, New York City <br>
+
+> - [**[IV 2023] (Co-Chair)**](https://2023.ieee-iv.org/workshops/) IEEE Intelligent Vehicles Symposium (IV 2023), Workshop on Internet of Things in Intelligent Transportation Systems, Anchorage, Alaska <br>
+
+> - [**[SEC 2022] (Co-Chair)**](http://acm-ieee-sec.org/2022/call%20for%20posters.php) The Seventh of ACM/IEEE Symposium on Edge Computing, Poster/Demo Session, Seattle, Washington <br>
+
 ## Member of Technical Program Committee (TPC)
 > - [**[INFOCOM 2023]**](https://infocom2023.ieee-infocom.org/) IEEE International Conference on Computer Communications <br>
+
 > - [**[MASS 2022]**](https://sites.google.com/view/ieee-mass-2022) IEEE International Conference on Mobile Ad-Hoc and Smart Systems <br>
-> - [**[SEC 2022] (Poster/Demo Track)**](http://acm-ieee-sec.org/2022/call%20for%20posters.php) ACM/IEEE Symposium on Edge Computing <br>
+
 > - [**[ICCCN 2023]**](http://www.icccn.org/) The 32nd International Conference on Computer Communications and Networks <br>
 
 ## Journal Reviewer
