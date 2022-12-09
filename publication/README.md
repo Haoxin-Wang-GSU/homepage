@@ -11,7 +11,12 @@ permalink: /publication/
 ## Under Review
 > - **[ICASSP'23]** **Confidence-Based Federated Distillation for Vision-Based Lane-Centering** <br>
 > Yitao Chen, Dawei Chen, <span style="color:#002993">**Haoxin Wang**</span>, Kyungtae Han, and Ming Zhao <br>
-> *2023 IEEE International Conference on Acoustics, Speech and Signal Processing* <br>
+> *2023 IEEE International Conference on Acoustics, Speech and Signal Processing.* <br>
+
+> - **[T-IV'22]** **FAIR: Towards Impartial Resource Allocation for Intelligent Vehicles with Automotive Edge Computing** <br>
+> <span style="color:#002993">**Haoxin Wang**</span>, Jiang (Linda) Xie, and Muhana Muslam <br>
+> *IEEE Transactions on Intelligent Vehicles.* <br>
+
 
 ## 2022
 > - **[TVT'22]** **Time Efficient Offloading Optimization in Automotive Multi-access Edge Computing Networks Using Mean-Field Games** <br>
