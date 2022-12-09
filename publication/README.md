@@ -9,9 +9,6 @@ permalink: /publication/
 ---
 
 ## 2022
-
-## 2021
-
 > - **[TVT'22]** **Time Efficient Offloading Optimization in Automotive Multi-access Edge Computing Networks Using Mean-Field Games** <br>
 > Yuhan Kang, <span style="color:#002993">**Haoxin Wang**</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], Xiao-Ping Zhang, and [Zhu Han][Zhu] <br>
 > *IEEE Transactions on Vehicular Technology, Accepted.* (IF: **6.239**) <br>
@@ -32,20 +29,11 @@ permalink: /publication/
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://www.researchgate.net/profile/Ziran-Wang-6/publication/358970927_Mobility_Digital_Twin_Concept_Architecture_Case_Study_and_Future_Challenges/links/6223c63384ce8e5b4d088be4/Mobility-Digital-Twin-Concept-Architecture-Case-Study-and-Future-Challenges.pdf)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9724183)</button>
 
-> - **[TGCN'21]** **Energy Drain of the Object Detection Processing Pipeline for Mobile Devices: Analysis and Implications** <br>
-> <span style="color:#002993">**Haoxin Wang**</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
-> *IEEE Transactions on Green Communications and Networking, vol.5, no.1, pp.41-60, 2021* (IF: **3.525**)<br>
-<button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://arxiv.org/pdf/2011.13075.pdf)</button>
-<button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9274509)</button>
-
-> - **[COMST'20]** **Architectural Design Alternatives based on Cloud/Edge/Fog Computing for Connected Vehicles** <br>
-> <span style="color:#002993">**Haoxin Wang**</span>, Tingting Liu, [BaekGyu Kim][Bkim], [Chung-Wei Lin][Lin], Shinichi Shiraishi, [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
-> *IEEE Communications Surveys and Tutorials, vol.22, no.4, pp.2349-2377, Fourthquarter 2020.* (IF: **25.25**)<br>
-<button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://arxiv.org/pdf/2009.12509.pdf)</button>
-<button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9184917)</button>
+> - **[SEC'22]** **Poster: Enabling High-Fidelity and Real-Time Mobility Digital Twin with Edge Computing** <br>
+> Yueyang Liu, <span style="color:#002993">**Haoxin Wang**</span>, Zhipeng Cai, Dawei Chen, and Kyungtae Han <br>
+> *The 7th ACM/IEEE Symposium on Edge Computing, San Jose, CA, December 2021.* <br>
 
 
-## Conferences
 > - **[ICC'22]** **EdgeMap: CrowdSourcing High Definition Map in Automotive Edge Computing** <br>
 > [Qiang Liu][Qiang], Yuru Zhang, and <span style="color:#002993">**Haoxin Wang**</span> <br>
 > *IEEE International Conference on Communications, Seoul, South Korea, May 2022.* <br>
@@ -56,11 +44,28 @@ permalink: /publication/
 > *IEEE 5th International Conference on Connected and Autonomous Driving, Detroit, Michigan, April 2022.* <br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](/paper/MetroCAD22.pdf)</button>
 
+## 2021
+
+> - **[TGCN'21]** **Energy Drain of the Object Detection Processing Pipeline for Mobile Devices: Analysis and Implications** <br>
+> <span style="color:#002993">**Haoxin Wang**</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
+> *IEEE Transactions on Green Communications and Networking, vol.5, no.1, pp.41-60, 2021* (IF: **3.525**)<br>
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://arxiv.org/pdf/2011.13075.pdf)</button>
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9274509)</button>
+
 > - **[SEC'21]** **You Can Enjoy Augmented Reality While Running Around: An Edge-based Mobile AR System** <br>
 > <span style="color:#002993">**Haoxin Wang**</span> and [Jiang (Linda) Xie][Linda] <br>
 > *The 6th ACM/IEEE Symposium on Edge Computing, San Jose, CA, December 2021.* <br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](/paper/SEC22.pdf)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9709007)</button>
+
+
+## Before 2021
+
+> - **[COMST'20]** **Architectural Design Alternatives based on Cloud/Edge/Fog Computing for Connected Vehicles** <br>
+> <span style="color:#002993">**Haoxin Wang**</span>, Tingting Liu, [BaekGyu Kim][Bkim], [Chung-Wei Lin][Lin], Shinichi Shiraishi, [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
+> *IEEE Communications Surveys and Tutorials, vol.22, no.4, pp.2349-2377, Fourthquarter 2020.* (IF: **25.25**)<br>
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://arxiv.org/pdf/2009.12509.pdf)</button>
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/9184917)</button>
 
 > - **[INFOCOM'20]** **User Preference Based Energy-Aware Mobile AR System with Edge Computing** <br>
 > <span style="color:#002993">**Haoxin Wang**</span> and [Jiang (Linda) Xie][Linda] <br>
