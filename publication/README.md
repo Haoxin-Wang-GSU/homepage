@@ -10,6 +10,8 @@ permalink: /publication/
 
 ## 2022
 
+## 2021
+
 > - **[TVT'22]** **Time Efficient Offloading Optimization in Automotive Multi-access Edge Computing Networks Using Mean-Field Games** <br>
 > Yuhan Kang, <span style="color:#002993">**Haoxin Wang**</span>, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], Xiao-Ping Zhang, and [Zhu Han][Zhu] <br>
 > *IEEE Transactions on Vehicular Technology, Accepted.* (IF: **6.239**) <br>
