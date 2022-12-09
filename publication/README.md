@@ -45,6 +45,7 @@ permalink: /publication/
 > - **[T-IV'22]** **Love of Variety based Latency Analysis for High Definition Map Updating: Age of Information and Distributional Robust Perspectives** <br>
 > Dawei Chen, Yifei Zhu, Dan Wang, Haoxin Wang, [Jiang (Linda) Xie][Linda], Xiao-Ping Zhang, and [Zhu Han][Zhu] <br>
 > *IEEE Transactions on Intelligent Vehicles, Early Access.* (IF: **5.009**) <br>
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/document/9963609)</button>
 
 > - **[TMC'22]** **LEAF + AIO: Edge-Assisted Energy-Aware Object Detection for Mobile Augmented Reality** <br>
 > Haoxin Wang, [BaekGyu Kim][Bkim], [Jiang (Linda) Xie][Linda], and [Zhu Han][Zhu] <br>
@@ -67,6 +68,7 @@ permalink: /publication/
 > [Qiang Liu][Qiang], Yuru Zhang, and Haoxin Wang <br>
 > *IEEE International Conference on Communications, Seoul, South Korea, May 2022.* <br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://arxiv.org/pdf/2201.07973.pdf)</button>
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/document/9838617)</button>
 
 > - **[MetroCAD'22]** **A Comparison for End-to-End Architectures for Connected Vehicles** <br>
 > Sidi Lu, Nejib Ammar, Akila Ganlath, Haoxin Wang, and [Weisong Shi][Shi] <br>
