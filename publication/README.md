@@ -18,7 +18,7 @@ permalink: /publication/
 > *IEEE Transactions on Intelligent Vehicles.* <br>
 
 > - **[VTM'22]** **Metamobility: Connecting Future Mobility with Metaverse** <br>
-> Haoxin Wang, Ziran Wang, Dawei Chen, Qiang Liu, Hongyu Ke, and Kyungtae Ha <br>
+> Haoxin Wang, Ziran Wang, Dawei Chen, Qiang Liu, Hongyu Ke, and Kyungtae Han <br>
 > *IEEE Vehicular Technology Magazine.* <br>
 
 > - **[T-ITS'22]** **DSORL: Data Source Optimization with Reinforcement Learning Scheme for Vehicular Named Data Networks** <br>
