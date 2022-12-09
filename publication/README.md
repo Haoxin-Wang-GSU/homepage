@@ -74,6 +74,7 @@ permalink: /publication/
 > Sidi Lu, Nejib Ammar, Akila Ganlath, Haoxin Wang, and [Weisong Shi][Shi] <br>
 > *IEEE 5th International Conference on Connected and Autonomous Driving, Detroit, Michigan, April 2022.* <br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](/paper/MetroCAD22.pdf)</button>
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/document/9844979)</button>
 
 ## 2021
 
