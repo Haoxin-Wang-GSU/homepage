@@ -45,6 +45,7 @@ permalink: /publication/
 > - **[T-IV'22]** **Love of Variety based Latency Analysis for High Definition Map Updating: Age of Information and Distributional Robust Perspectives** <br>
 > Dawei Chen, Yifei Zhu, Dan Wang, Haoxin Wang, [Jiang (Linda) Xie][Linda], Xiao-Ping Zhang, and [Zhu Han][Zhu] <br>
 > *IEEE Transactions on Intelligent Vehicles, Early Access.* (IF: **5.009**) <br>
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](paper/T-IV22.pdf)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/document/9963609)</button>
 
 > - **[TMC'22]** **LEAF + AIO: Edge-Assisted Energy-Aware Object Detection for Mobile Augmented Reality** <br>
