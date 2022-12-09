@@ -17,6 +17,25 @@ permalink: /publication/
 > <span style="color:#002993">**Haoxin Wang**</span>, Jiang (Linda) Xie, and Muhana Muslam <br>
 > *IEEE Transactions on Intelligent Vehicles.* <br>
 
+> - **[VTM'22]** **Metamobility: Connecting Future Mobility with Metaverse** <br>
+> <span style="color:#002993">**Haoxin Wang**</span>, Ziran Wang, Dawei Chen, Qiang Liu, Hongyu Ke, and Kyungtae Ha <br>
+> *IEEE Vehicular Technology Magazine.* <br>
+
+> - **[T-ITS'22]** **DSORL: Data Source Optimization with Reinforcement Learning Scheme for Vehicular Named Data Networks** <br>
+> Daniel Doe, Dawei Chen, Kyungtae Han, <span style="color:#002993">**Haoxin Wang**</span>, Jiang (Linda) Xie, and Zhu Han <br>
+> *IEEE Transactions on Intelligent Transportation Systems.* <br>
+
+> - **[ICC'23]** **High Definition Map Data Optimization for Autonomous Driving in Vehicular Named Data Networks** <br>
+> Daniel Doe, Dawei Chen, <span style="color:#002993">**Haoxin Wang**</span>, Kyungtae Han, Jiang (Linda) Xie, and Zhu Han <br>
+> *2023 IEEE International Conference on Communications.* <br>
+
+> - **[ICC'23]** **Adaptive Delivery for High Definition Map Using A Multi-Arm Bandit Approach** <br>
+> Dawei Chen, <span style="color:#002993">**Haoxin Wang**</span>, and Kyungtae Han <br>
+> *2023 IEEE International Conference on Communications.* <br>
+
+> - **[ICC'23]** **EPAM: A Predictive Energy Model for Mobile AI** <br>
+> Anik Mallik, <span style="color:#002993">**Haoxin Wang**</span>, Jiang (Linda) Xie, Dawei Chen, and Kyungtae Han <br>
+> *2023 IEEE International Conference on Communications.* <br>
 
 ## 2022
 > - **[TVT'22]** **Time Efficient Offloading Optimization in Automotive Multi-access Edge Computing Networks Using Mean-Field Games** <br>
