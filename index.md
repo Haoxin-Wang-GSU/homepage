@@ -12,9 +12,16 @@ cover: true
 <!--author-->
 
 ## News
+
+- [2022-11] I was invited to give a guest talk on *Applying Artificial Intelligence at the Edge: From the Energy Efficiency Perspective* at University of Nevada - Las Vegas.
+
+- [2022-11] I was invited to give a talk on the weekly seminar of Georgia State University CS *Reducing AI's Carbon Footprint: Edge AI Technologies and Applications*.
+
 - [2022-11] Our paper *Time Efficient Offloading Optimization in Automotive Multi-access Edge Computing Networks Using Mean-Field Games* is accepted by <span style="color:#002993">**IEEE Transactions on Vehicular Technology**</span> (IF: 6.239).
 
 - [2022-11] Our paper *Love of Variety based Latency Analysis for High Definition Map Updating: Age of Information and Distributional Robust Perspectives* is accepted by <span style="color:#002993">**IEEE Transactions on Intelligent Vehicles**</span> (IF: 5.009).
+
+- [2022-10] I start serving as Associate Editor of IEEE Internet of Things Journal (IF: 10.238).
 
 - [2022-08] I offically join CS department at GSU as an Assistant Professor. Thank you Toyota InfoTech Labs!
 
