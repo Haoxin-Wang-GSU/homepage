@@ -14,7 +14,7 @@ permalink: /AMAI/
 
 ### 📍 Georgia State University
 
-<img style="float: right;" width="150" src="img/Yueyang.jpeg">
+<img style="float: left;" width="150" src="img/Yueyang.jpeg">
 <span style="color:#002993" font size= "6">**Yueyang Liu**</span> <br>
 - Ph.D. student, Computer Science, Fall 2021 - Present <br>
 - M.S., Data Science, American University, Washington, D.C. <br>
@@ -26,7 +26,7 @@ permalink: /AMAI/
 - M.S., Computer Science, SUNY Buffalo, Getzville, New York <br>
 - Research Interests: Mobile AR/VR <br>
 
-<img style="float: right;" width="150" src="img/Xiaolong.jpeg">  
+<img style="float: left;" width="150" src="img/Xiaolong.jpeg">  
 - <span style="color:#002993">**Xiaolong Tu**</span> <br> 
 - Ph.D. student, Computer Science, Spring 2023 - Present <br>
 - System engineer, Apple R&D, Beijing, China <br>
