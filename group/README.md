@@ -101,7 +101,7 @@ button:hover, a:hover {
       <a href="https://scholar.google.com/citations?user=x996rvwAAAAJ&hl=en&oi=ao"><i class="fa fa-google"></i></a>
       <a href="https://github.com/Alex-NKG"><i class="fa fa-github"></i></a>  
   	</div>
-  	<p><button>More Info.</button></p>
+  	<p><button onclick="window.location.href='https://lyy.asia/about.html';">More Info.</button></p>
 	</div>
 	</article>
     
