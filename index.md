@@ -12,8 +12,10 @@ cover: true
 <!--author-->
 
 ## News
-- [2022-11] Our paper *Time Efficient Offloading Optimization in Automotive Multi-access Edge Computing Networks Using Mean-Field Games* is accepted by IEEE Transactions on Vehicular Technology (IF: 6.239).
-- [2022-11] Our paper *Love of Variety based Latency Analysis for High Definition Map Updating: Age of Information and Distributional Robust Perspectives* is accepted by IEEE Transactions on Intelligent Vehicles (IF: 5.009).
+- [2022-11] Our paper *Time Efficient Offloading Optimization in Automotive Multi-access Edge Computing Networks Using Mean-Field Games* is accepted by <span style="color:#002993">**IEEE Transactions on Vehicular Technology**</span> (IF: 6.239).
+
+- [2022-11] Our paper *Love of Variety based Latency Analysis for High Definition Map Updating: Age of Information and Distributional Robust Perspectives* is accepted by <span style="color:#002993">**IEEE Transactions on Intelligent Vehicles**</span> (IF: 5.009).
+
 - [2022-08] I offically join CS department at GSU as an Assistant Professor. Thank you Toyota InfoTech Labs!
 
 ## Background
