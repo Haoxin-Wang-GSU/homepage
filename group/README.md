@@ -14,18 +14,18 @@ permalink: /AMAI/
 
 ### 📍 Georgia State University
 
-<img src="img/Yueyang.JPG" alt="drawing" width="200"/>   
+<img align="left" width="200" height="200" src="img/Yueyang.JPG">  
 - <span style="color:#002993">**Yueyang Liu**</span> <br>
 - Current status: Ph.D. student, Computer Science Department, Georgia State University <br>
 - Research Interests: Computer Vision, Digital Twins, View Synthesis <br>
 
-<img src="img/Hongyu.JPG" alt="drawing" width="200"/> 
+<img align="left" width="200" height="200" src="img/Hongyu.JPG">  
 - <span style="color:#002993">**Hongyu Ke**</span> <br> 
 - Current status: Ph.D. student, Computer Science Department, Georgia State University <br>
 - Research Interests: Mobile AR/VR <br>
 
 <img src="img/Xiaolong.JPG" alt="drawing" width="200"/>  
--<span style="color:#002993">**Xiaolong Tu**</span> <br> 
+- <span style="color:#002993">**Xiaolong Tu**</span> <br> 
 - Current status: Ph.D. student, Computer Science Department, Georgia State University <br>
 - Research Interests: Sustainable AI, Carbon-Aware Computing Systems <br>
 
