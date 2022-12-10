@@ -7,7 +7,7 @@ hide_description: true
 cover: true
 ---
 
-## About Me 📃[CV](updated_CV.pdf)
+## About Me 📃 [<span style="color:#002993">**CV**</span>](updated_CV.pdf)
 
 <!--author-->
 
