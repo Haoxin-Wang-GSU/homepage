@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Advanced Mobility & Augmented Intelligence (AMAI) Lab
+title: The Advanced Mobility & Augmented Intelligence Laboratory
 description: >
   Mentored students.
 hide_description: true
