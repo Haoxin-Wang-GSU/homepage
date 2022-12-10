@@ -14,19 +14,19 @@ permalink: /AMAI/
 
 ### 📍 Georgia State University
 
-<img style="float: right;" width="200" src="img/Yueyang.JPG">
+<img style="float: right;" width="200" src="img/Yueyang.jpeg">
 <span style="color:#002993"><font size= "4">**Yueyang Liu**</font></span> <br>
 - Ph.D. student, Computer Science, Fall 2021 - Present <br>
 - M.S., Data Science, American University, Washington, D.C. <br>
 - Research Interests: Computer Vision, Digital Twins, View Synthesis <br>
 
-<img style="float: left;" width="200" src="img/Hongyu.JPG">
+<img style="float: left;" width="200" src="img/Hongyu.jpeg">
 - <span style="color:#002993">**Hongyu Ke**</span> <br> 
 - Ph.D. student, Computer Science, Spring 2023 - Present <br>
 - M.S., Computer Science, SUNY Buffalo, Getzville, New York <br>
 - Research Interests: Mobile AR/VR <br>
 
-<img style="float: right;" width="200" src="img/Xiaolong.JPG">  
+<img style="float: right;" width="200" src="img/Xiaolong.jpeg">  
 - <span style="color:#002993">**Xiaolong Tu**</span> <br> 
 - Ph.D. student, Computer Science, Spring 2023 - Present <br>
 - System engineer, Apple R&D, Beijing, China <br>
