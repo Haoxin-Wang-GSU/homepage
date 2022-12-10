@@ -14,7 +14,7 @@ permalink: /AMAI/
 
 ### 📍 Georgia State University
 
-<img style="float: right;" src="Yueyang.JPG">
+<img style="float: right;" src="img/Yueyang.JPG">
 - <span style="color:#002993">**Yueyang Liu**</span> <br>
 - Current status: Ph.D. student, Computer Science Department, Georgia State University <br>
 - Research Interests: Computer Vision, Digital Twins, View Synthesis <br>
