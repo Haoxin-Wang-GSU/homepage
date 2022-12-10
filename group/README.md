@@ -12,7 +12,7 @@ permalink: /AMAI/
 
 ## Lab Members
 
-### 📍 Georgia State University
+### Dreamers toward PHD
 
 <html lang="en-us">
   <head>
@@ -142,6 +142,9 @@ button:hover, a:hover {
     </section>
   </body>
 </html>
+
+### Master and undergraduate researchers
+- Yashwanth Alluri, undergraduate student,[GSU University Assistantship Program](https://honors.gsu.edu/assistantships/)
 
 ## Past Mentored Students 
 
