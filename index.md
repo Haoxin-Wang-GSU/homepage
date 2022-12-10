@@ -7,12 +7,13 @@ hide_description: true
 cover: true
 ---
 
-## About Me 📃[CV](updated_CV.pdf)📃
+## About Me 📃[CV](updated_CV.pdf)
 
 <!--author-->
 
 ## News
-
+- [2022-10]
+- [2022-08] I offically join CS department at GSU as an Assistant Professor. Thank you Toyota InfoTech Labs!
 
 ## Background
 1. this list will be replaced by the toc
