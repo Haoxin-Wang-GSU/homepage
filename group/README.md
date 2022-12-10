@@ -15,14 +15,14 @@ permalink: /group/
 ### 📍 Georgia State University
 
 :-------------------------:|:-------------------------:
-![Yueyang Liu](img/Yueyang.jpg)|  <span style="color:#002993">**Yueyang Liu**</span> <br>
+![Yueyang Liu](img/Yueyang.JPG)|  <span style="color:#002993">**Yueyang Liu**</span> <br>
 - Current status: Ph.D. student, Computer Science Department, Georgia State University <br>
 - Research Interests: Computer Vision, Digital Twins, View Synthesis <br>
 
-![Hongyu Ke](img/Hongyu.png) |  <span style="color:#002993">**Hongyu Ke**</span> <br> 
+![Hongyu Ke](img/Hongyu.JPG) |  <span style="color:#002993">**Hongyu Ke**</span> <br> 
 
 
-![Xiaolong Tu](img/Xiaolong.jpg)|  <span style="color:#002993">**Xiaolong Tu**</span> <br> 
+![Xiaolong Tu](img/Xiaolong.JPG)|  <span style="color:#002993">**Xiaolong Tu**</span> <br> 
 
 {:.stretch-table}
 
