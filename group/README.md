@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group
+title: The Advanced Mobility & Augmented Intelligence (AMAI) Lab
 description: >
   Mentored students.
 hide_description: true
@@ -14,8 +14,6 @@ permalink: /group/
 
 ### 📍 Georgia State University
 
-### 💌 Open Positions
-<span style="color:red">**Dr. Wang's research lab is actively looking for high-motivated Ph.D. students.**</span> [Details](/JD_GSU_PhD.pdf) 
 
 ## Past Mentored Students 
 
