@@ -5,7 +5,7 @@ description: >
   Mentored students.
 hide_description: true
 sitemap: false
-permalink: /AMAI/
+permalink: /group/
 ---
 1. this list will be replaced by the toc
 {:toc .large-only}
