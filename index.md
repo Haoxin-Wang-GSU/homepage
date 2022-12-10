@@ -7,7 +7,7 @@ hide_description: true
 cover: true
 ---
 
-## About Me 📃 [CV](https://www.dropbox.com/s/pkqt3ew9hxb2hy9/updated_CV.pdf?dl=0)
+## About Me 📃 [CV](updated_CV.pdf)
 
 <!--author-->
 
