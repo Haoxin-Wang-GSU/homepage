@@ -97,7 +97,6 @@ button:hover, a:hover {
   	<p class="title">Fall 2021 - Present</p>
     <p class="title">M.S. Data Science, American University, Washington, D.C.</p>
   	<div style="margin: 22px 0;">
-      <a href="yliu114@student.gsu.edu"><i class="fa fa-envelope"></i></a>  
       <a href="https://www.linkedin.com/in/alex-nkg/"><i class="fa fa-linkedin"></i></a>  
       <a href="https://scholar.google.com/citations?user=x996rvwAAAAJ&hl=en&oi=ao"><i class="fa fa-google"></i></a>
       <a href="https://github.com/Alex-NKG"><i class="fa fa-github"></i></a>  
@@ -115,9 +114,9 @@ button:hover, a:hover {
     <p class="title">Spring 2023 - Present</p>
     <p class="title">M.S. Computer Science, SUNY Buffalo, Getzville, NY</p>
     <div style="margin: 22px 0;">
-      <a href="#"><i class="fa fa-envelope"></i></a>  
       <a href="#"><i class="fa fa-linkedin"></i></a>  
       <a href="#"><i class="fa fa-google"></i></a> 
+      <a href="#"><i class="fa fa-github"></i></a>  
   	</div>
   	<p><button>More Info.</button></p>
 	</div>
@@ -132,9 +131,9 @@ button:hover, a:hover {
     <p class="title">Spring 2023 - Present</p>
     <p class="title">System engineer, Apple R&D, Beijing, China</p>
     <div style="margin: 22px 0;">
-      <a href="#"><i class="fa fa-envelope"></i></a>  
       <a href="#"><i class="fa fa-linkedin"></i></a>  
       <a href="#"><i class="fa fa-google"></i></a> 
+      <a href="#"><i class="fa fa-github"></i></a>  
   	</div>
   	<p><button>More Info.</button></p>
 	</div>
@@ -230,9 +229,9 @@ button:hover, a:hover {
     <p class="title">PhD student, CS, Arizona State University</p>
   	<p class="title">PhD advisor: Dr. Ming Zhao</p>
   	<div style="margin: 22px 0;">
-      <a href="#"><i class="fa fa-envelope"></i></a>  
-      <a href="#"><i class="fa fa-linkedin"></i></a>  
-      <a href="#"><i class="fa fa-google"></i></a> 
+      <a href="https://www.linkedin.com/in/yitao-chen-1725468a/"><i class="fa fa-linkedin"></i></a>  
+      <a href="https://scholar.google.com/citations?user=95wMTD8AAAAJ&hl=en"><i class="fa fa-google"></i></a> 
+      <a href="#"><i class="fa fa-github"></i></a>  
   	</div>
   	<p><button>More Info.</button></p>
 	</div>
@@ -246,9 +245,9 @@ button:hover, a:hover {
     <p class="title">Assistant Professor, AI and Advanced Computing School, Xi'an Jiaotong-Liverpool University</p>
     <p class="title">PhD advisor: Dr. Jiang Xie</p>
     <div style="margin: 22px 0;">
-      <a href="#"><i class="fa fa-envelope"></i></a>  
-      <a href="#"><i class="fa fa-linkedin"></i></a>  
-      <a href="#"><i class="fa fa-google"></i></a> 
+      <a href="https://www.linkedin.com/in/siqi-huang-58546311b/"><i class="fa fa-linkedin"></i></a>  
+      <a href="https://scholar.google.com/citations?user=vzx23bkAAAAJ&hl=en"><i class="fa fa-google"></i></a> 
+      <a href="#"><i class="fa fa-github"></i></a>  
   	</div>
   	<p><button>More Info.</button></p>
 	</div>
@@ -262,9 +261,9 @@ button:hover, a:hover {
     <p class="title">PhD student, ECE, University of Houston</p>
     <p class="title">PhD advisor: Dr. Zhu Han</p>
     <div style="margin: 22px 0;">
-      <a href="#"><i class="fa fa-envelope"></i></a>  
-      <a href="#"><i class="fa fa-linkedin"></i></a>  
-      <a href="#"><i class="fa fa-google"></i></a> 
+      <a href="https://www.linkedin.com/in/yuhan-kang-54496920a/"><i class="fa fa-linkedin"></i></a>  
+      <a href="https://scholar.google.com/citations?user=9ovlDvQAAAAJ&hl=zh-CN"><i class="fa fa-google"></i></a> 
+      <a href="#"><i class="fa fa-github"></i></a>  
   	</div>
   	<p><button>More Info.</button></p>
 	</div>
