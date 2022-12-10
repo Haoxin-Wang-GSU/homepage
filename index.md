@@ -14,7 +14,7 @@ cover: true
 ## News
 - [2022-12] My PhD student, Yueyang Liu, presented our poster at IEEE/ACM SEC 2022 in Seattle, WA.
 
-- [2022-11] Received one-year unrestricted research fund (Single-PI) from Toyoto Motor North America, Thanks Toyota!
+- [2022-11] Received one-year research fund (Single-PI) from Toyoto Motor North America, Thanks Toyota!
 
 - [2022-11] I was invited to give a guest talk on *Applying Artificial Intelligence at the Edge: From the Energy Efficiency Perspective* at University of Nevada - Las Vegas.
 
