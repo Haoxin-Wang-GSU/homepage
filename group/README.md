@@ -16,7 +16,7 @@ permalink: /AMAI/
 
 <img style="float: left;" width="150" src="img/Yueyang.jpeg">
 <span style="color:#002993" font size= "6">**Yueyang Liu**</span> <br>
-- Ph.D. student, Computer Science, Fall 2021 - Present <br>
+- Ph.D. student, Computer Science, Fall 2021 - Present (Co-advise with [Dr. Zhipeng Cai](http://cai.csgsu.org/)) <br>
 - M.S., Data Science, American University, Washington, D.C. <br>
 - Research Interests: Computer Vision, Digital Twins, View Synthesis <br>
 
