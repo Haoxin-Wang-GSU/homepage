@@ -14,19 +14,19 @@ permalink: /AMAI/
 
 ### 📍 Georgia State University
 
-<img style="float: right;" width="200" src="img/Yueyang.jpeg">
-<span style="color:#002993"><font size= "4">**Yueyang Liu**</font></span> <br>
+<img style="float: right;" width="150" src="img/Yueyang.jpeg">
+<span style="color:#002993" font size= "4">**Yueyang Liu**</font></span> <br>
 - Ph.D. student, Computer Science, Fall 2021 - Present <br>
 - M.S., Data Science, American University, Washington, D.C. <br>
 - Research Interests: Computer Vision, Digital Twins, View Synthesis <br>
 
-<img style="float: left;" width="200" src="img/Hongyu.jpeg">
+<img style="float: left;" width="150" src="img/Hongyu.jpeg">
 - <span style="color:#002993">**Hongyu Ke**</span> <br> 
 - Ph.D. student, Computer Science, Spring 2023 - Present <br>
 - M.S., Computer Science, SUNY Buffalo, Getzville, New York <br>
 - Research Interests: Mobile AR/VR <br>
 
-<img style="float: right;" width="200" src="img/Xiaolong.jpeg">  
+<img style="float: right;" width="150" src="img/Xiaolong.jpeg">  
 - <span style="color:#002993">**Xiaolong Tu**</span> <br> 
 - Ph.D. student, Computer Science, Spring 2023 - Present <br>
 - System engineer, Apple R&D, Beijing, China <br>
@@ -36,7 +36,7 @@ permalink: /AMAI/
 
 ## Past Mentored Students 
 
-### 📍 InfoTech Labs, Toyota Motor North America
+### 📍 InfoTech Labs, Toyota Motor North America R&D
 
 :-------------------------:|:-------------------------:
 ![Yitao Chen](img/Yitao.jpg)|  <span style="color:#002993">**Yitao Chen - 2022 Summer Research Co-op**</span> <br> ◾ Current status: Ph.D. student in the School of Computing and Augmented Intelligence at Arizona State University <br> ◾ Ph.D. advisor: [Ming Zhao](http://visa.lab.asu.edu/web/people/mingzhao/)<br> ◾ Research Interests: Federated learning, edge computing <br> <br> <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINKEDIN</span>](https://www.linkedin.com/in/yitao-chen-1725468a/)</button> <button style="background-color:#002993; border-color:#002993">[<span style="color:white">GOOGLE SCHOLAR</span>](https://scholar.google.com/citations?user=95wMTD8AAAAJ&hl=en)</button>
