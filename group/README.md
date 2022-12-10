@@ -41,12 +41,12 @@ button {
   text-align: center;
   cursor: pointer;
   width: 100%;
-  font-size: 22px;
+  font-size: 18px;
 }
 
 a {
   text-decoration: none;
-  font-size: 12px;
+  font-size: 18px;
   color: black;
 }
 
@@ -61,7 +61,6 @@ button:hover, a:hover {
       html {
         font-family: sans-serif;
       }
-
       body {
         margin: 0;
       }
@@ -93,9 +92,9 @@ button:hover, a:hover {
     <div class="card">
   	<img src="img/Yueyang.jpeg" alt="1" style="width:100%">
   	<p>Yueyang Liu</p>
-  	<p class="title">PhD student (co-advise with Dr. Zhipeng Cai)</p>
-  	<p>Fall 2021 - Present</p>
-    <p>M.S., Data Science, American University</p>
+  	<p class="title">PhD student (Co-advise with Dr. Zhipeng Cai)</p>
+  	<p class="title">Fall 2021 - Present</p>
+    <p class="title">M.S. Data Science, American University</p>
   	<div style="margin: 22px 0;">
       <a href="#"><i class="fa fa-dribbble"></i></a> 
       <a href="#"><i class="fa fa-twitter"></i></a>  
@@ -110,8 +109,9 @@ button:hover, a:hover {
     <div class="card">
     <img src="img/Hongyu.jpeg" alt="1" style="width:100%">
     <p>Hongyu Ke</p>
-    <p class="title">CEO & Founder, Example</p>
-    <p>Harvard University</p>
+    <p class="title">PhD student</p>
+    <p class="title">Spring 2023 - Present</p>
+    <p class="title">M.S. Computer Science, SUNY Buffalo</p>
     <div style="margin: 22px 0;">
       <a href="#"><i class="fa fa-dribbble"></i></a> 
       <a href="#"><i class="fa fa-twitter"></i></a>  
@@ -126,8 +126,9 @@ button:hover, a:hover {
     <div class="card">
     <img src="img/Xiaolong.jpeg" alt="1" style="width:100%">
     <p>Xiaolong Tu</p>
-    <p class="title">CEO & Founder, Example</p>
-    <p>Harvard University</p>
+    <p class="title">PhD student</p>
+    <p class="title">Spring 2023 - Present</p>
+    <p class="title">System engineer, Apple R&D, Beijing, China</p>
     <div style="margin: 22px 0;">
       <a href="#"><i class="fa fa-dribbble"></i></a> 
       <a href="#"><i class="fa fa-twitter"></i></a>  
