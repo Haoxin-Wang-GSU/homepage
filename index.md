@@ -7,7 +7,7 @@ hide_description: true
 cover: true
 ---
 
-## About Me
+## About Me [CV](updated_CV.pdf)
 
 <!--author-->
 
