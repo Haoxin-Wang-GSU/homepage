@@ -11,6 +11,8 @@ cover: true
 
 <!--author-->
 
+## News
+
 
 ## Background
 1. this list will be replaced by the toc
