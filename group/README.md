@@ -10,7 +10,7 @@ permalink: /AMAI/
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-## Current Students 
+## Lab Members
 
 ### 📍 Georgia State University
 
@@ -41,7 +41,7 @@ button {
   text-align: center;
   cursor: pointer;
   width: 100%;
-  font-size: 12px;
+  font-size: 22px;
 }
 
 a {
@@ -91,10 +91,11 @@ button:hover, a:hover {
     <section>
     <article>
     <div class="card">
-  	<img src="img/Hongyu.jpeg" alt="1" style="width:100%">
-  	<p>John Doe</p>
-  	<p class="title">CEO & Founder, Example</p>
-  	<p>Harvard University</p>
+  	<img src="img/Yueyang.jpeg" alt="1" style="width:100%">
+  	<p>Yueyang Liu</p>
+  	<p class="title">PhD student (co-advise with Dr. Zhipeng Cai)</p>
+  	<p>Fall 2021 - Present</p>
+    <p>M.S., Data Science, American University</p>
   	<div style="margin: 22px 0;">
       <a href="#"><i class="fa fa-dribbble"></i></a> 
       <a href="#"><i class="fa fa-twitter"></i></a>  
@@ -108,7 +109,7 @@ button:hover, a:hover {
 	<article>
     <div class="card">
     <img src="img/Hongyu.jpeg" alt="1" style="width:100%">
-    <p>John Doe</p>
+    <p>Hongyu Ke</p>
     <p class="title">CEO & Founder, Example</p>
     <p>Harvard University</p>
     <div style="margin: 22px 0;">
@@ -123,8 +124,8 @@ button:hover, a:hover {
 
 	<article>
     <div class="card">
-    <img src="img/Hongyu.jpeg" alt="1" style="width:100%">
-    <p>John Doe</p>
+    <img src="img/Xiaolong.jpeg" alt="1" style="width:100%">
+    <p>Xiaolong Tu</p>
     <p class="title">CEO & Founder, Example</p>
     <p>Harvard University</p>
     <div style="margin: 22px 0;">
