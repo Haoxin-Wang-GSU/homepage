@@ -99,7 +99,8 @@ button:hover, a:hover {
   	<div style="margin: 22px 0;">
       <a href="yliu114@student.gsu.edu"><i class="fa fa-envelope"></i></a>  
       <a href="https://www.linkedin.com/in/alex-nkg/"><i class="fa fa-linkedin"></i></a>  
-      <a href="https://scholar.google.com/citations?user=x996rvwAAAAJ&hl=en&oi=ao"><i class="fa fa-google"></i></a> 
+      <a href="https://scholar.google.com/citations?user=x996rvwAAAAJ&hl=en&oi=ao"><i class="fa fa-google"></i></a>
+      <a href="https://github.com/Alex-NKG"><i class="fa fa-github"></i></a>  
   	</div>
   	<p><button>More Info.</button></p>
 	</div>
@@ -230,8 +231,8 @@ button:hover, a:hover {
   	<p class="title">PhD advisor: Dr. Ming Zhao</p>
   	<div style="margin: 22px 0;">
       <a href="#"><i class="fa fa-envelope"></i></a>  
-      <a href="#"><i class="fa fa-linkedin" style="color:blue"></i></a>  
-      <a href="#"><i class="fa fa-google" style="color:red"></i></a> 
+      <a href="#"><i class="fa fa-linkedin"></i></a>  
+      <a href="#"><i class="fa fa-google"></i></a> 
   	</div>
   	<p><button>More Info.</button></p>
 	</div>
