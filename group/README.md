@@ -224,7 +224,7 @@ button:hover, a:hover {
     <article>
     <div class="card">
   	<img src="img/Yitao.jpg" alt="1" style="width:100%">
-  	<p>Yueyang Liu</p>
+  	<p>Yitao Chen</p>
   	<p class="title">2022 Summer Research Co-op</p>
     <p class="title">PhD student, CS, Arizona State University</p>
   	<p class="title">PhD advisor: Dr. Ming Zhao</p>
@@ -240,7 +240,7 @@ button:hover, a:hover {
 	<article>
     <div class="card">
     <img src="img/Siqi.png" alt="1" style="width:100%">
-    <p>Hongyu Ke</p>
+    <p>Dr. Siqi Huang</p>
     <p class="title">2021 Summer Research Co-op</p>
     <p class="title">Assistant Professor, AI and Advanced Computing School, Xi'an Jiaotong-Liverpool University</p>
     <p class="title">PhD advisor: Dr. Jiang Xie</p>
@@ -256,7 +256,7 @@ button:hover, a:hover {
 	<article>
     <div class="card">
     <img src="img/Yuhan.jpg" alt="1" style="width:100%">
-    <p>Xiaolong Tu</p>
+    <p>Yuhan Kang</p>
     <p class="title">2021 Spring Research Co-op</p>
     <p class="title">PhD student, ECE, University of Houston</p>
     <p class="title">PhD advisor: Dr. Zhu Han</p>
