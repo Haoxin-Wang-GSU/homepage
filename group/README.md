@@ -65,33 +65,25 @@ button:hover, a:hover {
       body {
         margin: 0;
       }
-
-      
       h1 {
         text-align: center;
         color: black;
         line-height: 100px;
         margin: 0;
       }
-
       article {
         padding: 20px;
         margin: 10px;
         background: white;
       }
-
       /* Add your flexbox CSS below here */
-
       section {
         display: flex;
         flex-direction: row;
       }
-
       article {
         
       }
-
-
     </style>
   </head>
   
@@ -100,7 +92,7 @@ button:hover, a:hover {
     <article>
     <div class="card">
   	<img src="img/Hongyu.jpeg" alt="1" style="width:100%">
-  	<h1>John Doe</h1>
+  	<p>John Doe</p>
   	<p class="title">CEO & Founder, Example</p>
   	<p>Harvard University</p>
   	<div style="margin: 22px 0;">
@@ -116,7 +108,7 @@ button:hover, a:hover {
 	<article>
     <div class="card">
     <img src="img/Hongyu.jpeg" alt="1" style="width:100%">
-    <h1>John Doe</h1>
+    <p>John Doe</p>
     <p class="title">CEO & Founder, Example</p>
     <p>Harvard University</p>
     <div style="margin: 22px 0;">
@@ -132,7 +124,7 @@ button:hover, a:hover {
 	<article>
     <div class="card">
     <img src="img/Hongyu.jpeg" alt="1" style="width:100%">
-    <h1>John Doe</h1>
+    <p>John Doe</p>
     <p class="title">CEO & Founder, Example</p>
     <p>Harvard University</p>
     <div style="margin: 22px 0;">
