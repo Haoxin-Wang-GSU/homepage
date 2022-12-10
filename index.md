@@ -12,7 +12,7 @@ cover: true
 <!--author-->
 
 ## News
-- [2022-12] My PhD student, Yueyang Liu, presented our poster at IEEE/ACM SEC 2022 in Seattle.
+- [2022-12] My PhD student, Yueyang Liu, presented our poster at IEEE/ACM SEC 2022 in Seattle, WA.
 
 - [2022-11] Received one-year unrestricted research fund (Single-PI) from Toyoto Motor North America, Thanks Toyota!
 
