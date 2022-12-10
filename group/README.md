@@ -14,21 +14,21 @@ permalink: /group/
 
 ### 📍 Georgia State University
 
-:-------------------------:|:-------------------------:
-<img src="img/Yueyang.JPG" alt="drawing" width="200"/> |  <span style="color:#002993">**Yueyang Liu**</span> <br>
+<img src="img/Yueyang.JPG" alt="drawing" width="200"/>   
+- <span style="color:#002993">**Yueyang Liu**</span> <br>
 - Current status: Ph.D. student, Computer Science Department, Georgia State University <br>
 - Research Interests: Computer Vision, Digital Twins, View Synthesis <br>
 
-
-
-![Hongyu Ke](img/Hongyu.JPG) |  <span style="color:#002993">**Hongyu Ke**</span> <br> 
+<img src="img/Hongyu.JPG" alt="drawing" width="200"/> 
+- <span style="color:#002993">**Hongyu Ke**</span> <br> 
 - Current status: Ph.D. student, Computer Science Department, Georgia State University <br>
 - Research Interests: Mobile AR/VR <br>
 
-![Xiaolong Tu](img/Xiaolong.JPG)|  <span style="color:#002993">**Xiaolong Tu**</span> <br> 
+<img src="img/Xiaolong.JPG" alt="drawing" width="200"/>  
+-<span style="color:#002993">**Xiaolong Tu**</span> <br> 
 - Current status: Ph.D. student, Computer Science Department, Georgia State University <br>
 - Research Interests: Sustainable AI, Carbon-Aware Computing Systems <br>
-{:.stretch-table}
+
 
 
 ## Past Mentored Students 
