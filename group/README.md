@@ -20,10 +20,12 @@ permalink: /group/
 - Research Interests: Computer Vision, Digital Twins, View Synthesis <br>
 
 ![Hongyu Ke](img/Hongyu.JPG) |  <span style="color:#002993">**Hongyu Ke**</span> <br> 
-
+- Current status: Ph.D. student, Computer Science Department, Georgia State University <br>
+- Research Interests: Mobile AR/VR <br>
 
 ![Xiaolong Tu](img/Xiaolong.JPG)|  <span style="color:#002993">**Xiaolong Tu**</span> <br> 
-
+- Current status: Ph.D. student, Computer Science Department, Georgia State University <br>
+- Research Interests: Sustainable AI, Carbon-aware Edge Computing Systems <br>
 {:.stretch-table}
 
 
