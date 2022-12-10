@@ -230,8 +230,8 @@ button:hover, a:hover {
   	<p class="title">PhD advisor: Dr. Ming Zhao</p>
   	<div style="margin: 22px 0;">
       <a href="#"><i class="fa fa-envelope"></i></a>  
-      <a href="#"><i class="fa fa-linkedin"></i></a>  
-      <a href="#"><i class="fa fa-google"></i></a> 
+      <a href="#"><i class="fa fa-linkedin" style="color:blue"></i></a>  
+      <a href="#"><i class="fa fa-google" style="color:red"></i></a> 
   	</div>
   	<p><button>More Info.</button></p>
 	</div>
