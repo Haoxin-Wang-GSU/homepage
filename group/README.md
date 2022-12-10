@@ -97,9 +97,9 @@ button:hover, a:hover {
   	<p class="title">Fall 2021 - Present</p>
     <p class="title">M.S. Data Science, American University, Washington, D.C.</p>
   	<div style="margin: 22px 0;">
-      <a href="#"><i class="fa fa-envelope"></i></a>  
-      <a href="#"><i class="fa fa-linkedin"></i></a>  
-      <a href="#"><i class="fa fa-google"></i></a> 
+      <a href="yliu114@student.gsu.edu"><i class="fa fa-envelope"></i></a>  
+      <a href="https://www.linkedin.com/in/alex-nkg/"><i class="fa fa-linkedin"></i></a>  
+      <a href="https://scholar.google.com/citations?user=x996rvwAAAAJ&hl=en&oi=ao"><i class="fa fa-google"></i></a> 
   	</div>
   	<p><button>More Info.</button></p>
 	</div>
