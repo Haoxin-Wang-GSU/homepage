@@ -14,6 +14,45 @@ permalink: /AMAI/
 
 ### 📍 Georgia State University
 
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>CSS Grid starting point</title>
+    <style>
+        body {
+            width: 90%;
+            max-width: 900px;
+            margin: 2em auto;
+            font: .9em/1.2 Arial, Helvetica, sans-serif;
+        }
+
+        .container > div {
+            border-radius: 5px;
+            padding: 10px;
+            background-color: rgb(207,232,220);
+            border: 2px solid rgb(79,185,227);
+        }
+    </style>
+  </head>
+
+<body>
+    <h1>Simple grid example</h1>
+
+    <div class="container">
+        <div>One</div>
+        <div>Two</div>
+        <div>Three</div>
+        <div>Four</div>
+        <div>Five</div>
+        <div>Six</div>
+        <div>Seven</div>
+    </div>
+
+</body>
+
+</html>
+
 <img style="float: left;" width="150" src="img/Yueyang.jpeg">
 <span style="color:#002993" font size= "6">**Yueyang Liu**</span> <br>
 - Ph.D. student, Computer Science, Fall 2021 - Present (Co-advise with [Dr. Zhipeng Cai](http://cai.csgsu.org/)) <br>
