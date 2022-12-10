@@ -93,6 +93,7 @@ button:hover, a:hover {
   	<img src="img/Yueyang.jpeg" alt="1" style="width:100%">
   	<p>Yueyang Liu</p>
   	<p class="title">PhD student (Co-advise with Dr. Zhipeng Cai)</p>
+    <p class="title">Computer Vision, Digital Twins</p>
   	<p class="title">Fall 2021 - Present</p>
     <p class="title">M.S. Data Science, American University, Washington, D.C.</p>
   	<div style="margin: 22px 0;">
@@ -110,6 +111,7 @@ button:hover, a:hover {
     <img src="img/Hongyu.jpeg" alt="1" style="width:100%">
     <p>Hongyu Ke</p>
     <p class="title">PhD student</p>
+    <p class="title">Mobile AR/VR</p>
     <p class="title">Spring 2023 - Present</p>
     <p class="title">M.S. Computer Science, SUNY Buffalo, Getzville, NY</p>
     <div style="margin: 22px 0;">
@@ -127,6 +129,7 @@ button:hover, a:hover {
     <img src="img/Xiaolong.jpeg" alt="1" style="width:100%">
     <p>Xiaolong Tu</p>
     <p class="title">PhD student</p>
+    <p class="title">Sustainable AI, Carbon-Aware Computing Systems </p>
     <p class="title">Spring 2023 - Present</p>
     <p class="title">System engineer, Apple R&D, Beijing, China</p>
     <div style="margin: 22px 0;">
