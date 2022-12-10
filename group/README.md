@@ -114,7 +114,7 @@ button:hover, a:hover {
     <p class="title">Spring 2023 - Present</p>
     <p class="title">M.S. Computer Science, SUNY Buffalo, Getzville, NY</p>
     <div style="margin: 22px 0;">
-      <a href="#"><i class="fa fa-linkedin"></i></a>  
+      <a href="https://www.linkedin.com/in/hongyu-ke-9057b51b7/"><i class="fa fa-linkedin"></i></a>  
       <a href="#"><i class="fa fa-google"></i></a> 
       <a href="#"><i class="fa fa-github"></i></a>  
   	</div>
