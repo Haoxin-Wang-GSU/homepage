@@ -7,7 +7,7 @@ hide_description: true
 cover: true
 ---
 
-## About Me [CV](updated_CV.pdf)
+## About Me :scroll: [CV](updated_CV.pdf)
 
 <!--author-->
 
