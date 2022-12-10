@@ -94,7 +94,7 @@ button:hover, a:hover {
   	<p>Yueyang Liu</p>
   	<p class="title">PhD student (Co-advise with Dr. Zhipeng Cai)</p>
   	<p class="title">Fall 2021 - Present</p>
-    <p class="title">M.S. Data Science, American University</p>
+    <p class="title">M.S. Data Science, American University, Washington, D.C.</p>
   	<div style="margin: 22px 0;">
       <a href="#"><i class="fa fa-dribbble"></i></a> 
       <a href="#"><i class="fa fa-twitter"></i></a>  
@@ -111,7 +111,7 @@ button:hover, a:hover {
     <p>Hongyu Ke</p>
     <p class="title">PhD student</p>
     <p class="title">Spring 2023 - Present</p>
-    <p class="title">M.S. Computer Science, SUNY Buffalo</p>
+    <p class="title">M.S. Computer Science, SUNY Buffalo, Getzville, NY</p>
     <div style="margin: 22px 0;">
       <a href="#"><i class="fa fa-dribbble"></i></a> 
       <a href="#"><i class="fa fa-twitter"></i></a>  
