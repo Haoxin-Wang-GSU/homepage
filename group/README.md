@@ -144,7 +144,7 @@ button:hover, a:hover {
 </html>
 
 ### Master and undergraduate researchers
-- Yashwanth Alluri, undergraduate student,[GSU University Assistantship Program](https://honors.gsu.edu/assistantships/)
+- Yashwanth Alluri, undergraduate student, GSU University Assistantship Program
 
 ## Past Mentored Students 
 
