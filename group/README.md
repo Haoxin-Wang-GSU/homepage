@@ -102,7 +102,7 @@ button:hover, a:hover {
       <a href="#"><i class="fa fa-linkedin"></i></a>  
       <a href="#"><i class="fa fa-facebook"></i></a> 
   	</div>
-  	<p><button>Contact</button></p>
+  	<p><button>More Info.</button></p>
 	</div>
 	</article>
     
@@ -120,7 +120,7 @@ button:hover, a:hover {
       <a href="#"><i class="fa fa-linkedin"></i></a>  
       <a href="#"><i class="fa fa-facebook"></i></a> 
   	</div>
-  	<p><button>Contact</button></p>
+  	<p><button>More Info.</button></p>
 	</div>
 	</article>
 
@@ -138,7 +138,7 @@ button:hover, a:hover {
       <a href="#"><i class="fa fa-linkedin"></i></a>  
       <a href="#"><i class="fa fa-facebook"></i></a> 
   	</div>
-  	<p><button>Contact</button></p>
+  	<p><button>More Info.</button></p>
 	</div>
 	</article>
 
