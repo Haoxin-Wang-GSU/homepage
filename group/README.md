@@ -4,7 +4,7 @@ title: The Advanced Mobility & Augmented Intelligence Laboratory
 description: >
   Mentored students.
 hide_description: true
-sitemap: false
+sitemap: true
 permalink: /AMAI/
 ---
 1. this list will be replaced by the toc
