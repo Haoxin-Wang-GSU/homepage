@@ -13,10 +13,6 @@ permalink: /publication/
 > Yitao Chen, Dawei Chen, Haoxin Wang, Kyungtae Han, and Ming Zhao <br>
 > *2023 IEEE International Conference on Acoustics, Speech and Signal Processing.* <br>
 
-> - **[T-IV'22]** **FAIR: Towards Impartial Resource Allocation for Intelligent Vehicles with Automotive Edge Computing** <br>
-> Haoxin Wang, Jiang (Linda) Xie, and Muhana Muslam <br>
-> *IEEE Transactions on Intelligent Vehicles.* <br>
-
 > - **[VTM'22]** **Metamobility: Connecting Future Mobility with Metaverse** <br>
 > Haoxin Wang, Ziran Wang, Dawei Chen, Qiang Liu, Hongyu Ke, and Kyungtae Han <br>
 > *IEEE Vehicular Technology Magazine.* <br>
@@ -36,6 +32,12 @@ permalink: /publication/
 > - **[ICC'23]** **EPAM: A Predictive Energy Model for Mobile AI** <br>
 > Anik Mallik, Haoxin Wang, Jiang (Linda) Xie, Dawei Chen, and Kyungtae Han <br>
 > *2023 IEEE International Conference on Communications.* <br>
+
+## 2023
+> - **[T-IV'23]** **FAIR: Towards Impartial Resource Allocation for Intelligent Vehicles with Automotive Edge Computing** <br>
+> Haoxin Wang, Jiang (Linda) Xie, and Muhana Muslam <br>
+> *IEEE Transactions on Intelligent Vehicles, Accepted.* (IF: **5.009**) <br>
+
 
 ## 2022
 > - **[TVT'22]** **Time Efficient Offloading Optimization in Automotive Multi-access Edge Computing Networks Using Mean-Field Games** <br>
