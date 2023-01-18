@@ -68,7 +68,7 @@ permalink: /publication/
 > - **[SEC'22]** **Poster: Enabling High-Fidelity and Real-Time Mobility Digital Twin with Edge Computing** <br>
 > Yueyang Liu, Haoxin Wang, Zhipeng Cai, Dawei Chen, and Kyungtae Han <br>
 > *The 7th ACM/IEEE Symposium on Edge Computing, San Jose, CA, December 2021.* <br>
-
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://www.computer.org/csdl/proceedings-article/sec/2022/861100a281/1JC1hoikgak)</button>
 
 > - **[ICC'22]** **EdgeMap: CrowdSourcing High Definition Map in Automotive Edge Computing** <br>
 > Qiang Liu, Yuru Zhang, and Haoxin Wang <br>
