@@ -12,6 +12,11 @@ cover: true
 <!--author-->
 
 ## News
+
+- [2023-1] #Dreamers toward Ph.D., Xiaolong Tu and Hongyu Ke joined AMAI Labs as Ph.D. students. Welcome on-board!
+
+- [2023-1] Our paper *FAIR: Towards Impartial Resource Allocation for Intelligent Vehicles with Automotive Edge Computing* is accepted by <span style="color:#002993">**IEEE Transactions on Intelligent Vehicles**</span> (IF: 5.009).
+
 - [2022-12] My PhD student, Yueyang Liu, presented our poster at IEEE/ACM SEC 2022 in Seattle, WA.
 
 - [2022-11] Received one-year research fund (Single-PI) from Toyoto Motor North America, Thanks Toyota!
