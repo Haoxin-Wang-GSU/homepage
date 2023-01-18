@@ -131,7 +131,7 @@ button:hover, a:hover {
     <p class="title">Spring 2023 - Present</p>
     <p class="title">System engineer, Apple R&D, Beijing, China</p>
     <div style="margin: 22px 0;">
-      <a href="#"><i class="fa fa-linkedin"></i></a>  
+      <a href="https://www.linkedin.com/in/xiaolong-tu-96562ba5/?originalSubdomain=cn"><i class="fa fa-linkedin"></i></a>  
       <a href="#"><i class="fa fa-google"></i></a> 
       <a href="#"><i class="fa fa-github"></i></a>  
   	</div>
