@@ -29,7 +29,3 @@ Paper submissions are now welcome for our IEEE IV 2023 workshop!
 
 Visit our website for more information: https://iot-in-its.github.io/iv2023
 Visit the IEEE IV 2023 website and select WS09 to submit now: https://edas.info/newPaper.php?c=30459&track=115618
-
-![IV](assets/img/news/IV-workshop-CFP.jpeg)
-3RD WORKSHOP ON INTERNET OF THINGS IN INTELLIGENT TRANSPORTATION SYSTEMS
-{:.figure}
