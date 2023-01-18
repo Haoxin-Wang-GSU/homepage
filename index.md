@@ -13,7 +13,7 @@ cover: true
 
 ## News
 
-- [2023-1] #Dreamers toward Ph.D., Xiaolong Tu and Hongyu Ke joined AMAI Labs as Ph.D. students. Welcome on-board!
+- [2023-1] <span style="color:#002993">**Dreamers toward Ph.D.**</span> Xiaolong Tu and Hongyu Ke joined AMAI Labs as Ph.D. students. Welcome on-board!
 
 - [2023-1] Our paper *FAIR: Towards Impartial Resource Allocation for Intelligent Vehicles with Automotive Edge Computing* is accepted by <span style="color:#002993">**IEEE Transactions on Intelligent Vehicles**</span> (IF: 5.009).
 
