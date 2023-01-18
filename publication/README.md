@@ -16,6 +16,7 @@ permalink: /publication/
 > - **[VTM'22]** **Metamobility: Connecting Future Mobility with Metaverse** <br>
 > Haoxin Wang, Ziran Wang, Dawei Chen, Qiang Liu, Hongyu Ke, and Kyungtae Han <br>
 > *IEEE Vehicular Technology Magazine.* <br>
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">Pre-print</span>](https://arxiv.org/abs/2301.06991)</button>
 
 > - **[T-ITS'22]** **DSORL: Data Source Optimization with Reinforcement Learning Scheme for Vehicular Named Data Networks** <br>
 > Daniel Doe, Dawei Chen, Kyungtae Han, Haoxin Wang, Jiang (Linda) Xie, and Zhu Han <br>
@@ -37,12 +38,14 @@ permalink: /publication/
 > - **[T-IV'23]** **FAIR: Towards Impartial Resource Allocation for Intelligent Vehicles with Automotive Edge Computing** <br>
 > Haoxin Wang, Jiang (Linda) Xie, and Muhana Muslam <br>
 > *IEEE Transactions on Intelligent Vehicles, Accepted.* (IF: **5.009**) <br>
-
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://arxiv.org/pdf/2212.12858.pdf)</button>
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/10008073)</button>
 
 ## 2022
 > - **[TVT'22]** **Time Efficient Offloading Optimization in Automotive Multi-access Edge Computing Networks Using Mean-Field Games** <br>
 > Yuhan Kang, Haoxin Wang, BaekGyu Kim, Jiang (Linda) Xie, Xiao-Ping Zhang, and Zhu Han<br>
 > *IEEE Transactions on Vehicular Technology, Early Access.* (IF: **6.239**) <br>
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/document/10016754)</button>
 
 > - **[T-IV'22]** **Love of Variety based Latency Analysis for High Definition Map Updating: Age of Information and Distributional Robust Perspectives** <br>
 > Dawei Chen, Yifei Zhu, Dan Wang, Haoxin Wang, Jiang (Linda) Xie, Xiao-Ping Zhang, and Zhu Han<br>
