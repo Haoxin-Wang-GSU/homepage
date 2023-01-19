@@ -22,22 +22,21 @@ permalink: /publication/
 > Daniel Doe, Dawei Chen, Kyungtae Han, Haoxin Wang, Jiang (Linda) Xie, and Zhu Han <br>
 > *IEEE Transactions on Intelligent Transportation Systems.* <br>
 
+
+
+## 2023
+
 > - **[ICC'23]** **High Definition Map Data Optimization for Autonomous Driving in Vehicular Named Data Networks** <br>
 > Daniel Doe, Dawei Chen, Haoxin Wang, Kyungtae Han, Jiang (Linda) Xie, and Zhu Han <br>
-> *2023 IEEE International Conference on Communications.* <br>
-
-> - **[ICC'23]** **Adaptive Delivery for High Definition Map Using A Multi-Arm Bandit Approach** <br>
-> Dawei Chen, Haoxin Wang, and Kyungtae Han <br>
-> *2023 IEEE International Conference on Communications.* <br>
+> *2023 IEEE International Conference on Communications, Accepted.* <br>
 
 > - **[ICC'23]** **EPAM: A Predictive Energy Model for Mobile AI** <br>
 > Anik Mallik, Haoxin Wang, Jiang (Linda) Xie, Dawei Chen, and Kyungtae Han <br>
-> *2023 IEEE International Conference on Communications.* <br>
+> *2023 IEEE International Conference on Communications, Accepted.* <br>
 
-## 2023
 > - **[T-IV'23]** **FAIR: Towards Impartial Resource Allocation for Intelligent Vehicles with Automotive Edge Computing** <br>
 > Haoxin Wang, Jiang (Linda) Xie, and Muhana Muslam <br>
-> *IEEE Transactions on Intelligent Vehicles, Accepted.* (IF: **5.009**) <br>
+> *IEEE Transactions on Intelligent Vehicles, Early Access.* (IF: **5.009**) <br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://arxiv.org/pdf/2212.12858.pdf)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/10008073)</button>
 

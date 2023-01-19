@@ -13,6 +13,8 @@ cover: true
 
 ## News
 
+- [2023-1] Two papers accepted by <span style="color:#002993">**IEEE ICC 2023**</span>, congrats team!
+
 - [2023-1] <span style="color:#002993">**Call For Paper**</span> [Paper submissions are now welcome for our IEEE IV 2023 workshop!](https://iot-in-its.github.io/iv2023)
 
 - [2023-1] <span style="color:#002993">**Dreamers toward Ph.D.**</span> Xiaolong Tu and Hongyu Ke joined AMAI Labs as Ph.D. students. Welcome on-board!
