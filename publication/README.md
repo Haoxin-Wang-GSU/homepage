@@ -23,9 +23,7 @@ permalink: /publication/
 > *IEEE Transactions on Intelligent Transportation Systems.* <br>
 
 
-
 ## 2023
-
 > - **[ICC'23]** **High Definition Map Data Optimization for Autonomous Driving in Vehicular Named Data Networks** <br>
 > Daniel Doe, Dawei Chen, Haoxin Wang, Kyungtae Han, Jiang (Linda) Xie, and Zhu Han <br>
 > *2023 IEEE International Conference on Communications, Accepted.* <br>
