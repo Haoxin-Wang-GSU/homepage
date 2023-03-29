@@ -13,17 +13,17 @@ permalink: /publication/
 > Yitao Chen, Dawei Chen, Haoxin Wang, Kyungtae Han, and Ming Zhao <br>
 > *2023 IEEE International Conference on Acoustics, Speech and Signal Processing.* <br>
 
-> - **[VTM'22]** **Metamobility: Connecting Future Mobility with Metaverse** <br>
-> Haoxin Wang, Ziran Wang, Dawei Chen, Qiang Liu, Hongyu Ke, and Kyungtae Han <br>
-> *IEEE Vehicular Technology Magazine.* <br>
-<button style="background-color:#002993; border-color:#002993">[<span style="color:white">Pre-print</span>](https://arxiv.org/abs/2301.06991)</button>
-
-> - **[T-ITS'22]** **DSORL: Data Source Optimization with Reinforcement Learning Scheme for Vehicular Named Data Networks** <br>
+> - **[T-ITS'23]** **DSORL: Data Source Optimization with Reinforcement Learning Scheme for Vehicular Named Data Networks** <br>
 > Daniel Doe, Dawei Chen, Kyungtae Han, Haoxin Wang, Jiang (Linda) Xie, and Zhu Han <br>
 > *IEEE Transactions on Intelligent Transportation Systems.* <br>
 
 
 ## 2023
+> - **[VTM'23]** **Metamobility: Connecting Future Mobility with Metaverse** <br>
+> Haoxin Wang, Ziran Wang, Dawei Chen, Qiang Liu, Hongyu Ke, and Kyungtae Han <br>
+> *IEEE Vehicular Technology Magazine, Accepted.* <br>
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">Pre-print</span>](https://arxiv.org/abs/2301.06991)</button>
+
 > - **[ICC'23]** **High Definition Map Data Optimization for Autonomous Driving in Vehicular Named Data Networks** <br>
 > Daniel Doe, Dawei Chen, Haoxin Wang, Kyungtae Han, Jiang (Linda) Xie, and Zhu Han <br>
 > *2023 IEEE International Conference on Communications, Accepted.* <br>
@@ -31,6 +31,7 @@ permalink: /publication/
 > - **[ICC'23]** **EPAM: A Predictive Energy Model for Mobile AI** <br>
 > Anik Mallik, Haoxin Wang, Jiang (Linda) Xie, Dawei Chen, and Kyungtae Han <br>
 > *2023 IEEE International Conference on Communications, Accepted.* <br>
+<button style="background-color:#002993; border-color:#002993">[<span style="color:white">Pre-print</span>](https://arxiv.org/pdf/2303.01509.pdf)</button>
 
 > - **[T-IV'23]** **FAIR: Towards Impartial Resource Allocation for Intelligent Vehicles with Automotive Edge Computing** <br>
 > Haoxin Wang, Jiang (Linda) Xie, and Muhana Muslam <br>
