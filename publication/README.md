@@ -35,7 +35,7 @@ permalink: /publication/
 
 > - **[T-IV'23]** **FAIR: Towards Impartial Resource Allocation for Intelligent Vehicles with Automotive Edge Computing** <br>
 > Haoxin Wang, Jiang (Linda) Xie, and Muhana Muslam <br>
-> *IEEE Transactions on Intelligent Vehicles, Early Access.* (IF: **5.009**) <br>
+> *IEEE Transactions on Intelligent Vehicles, vol.8, no.2, pp.1971-1982, 2023.* (IF: **5.009**) <br>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">PDF</span>](https://arxiv.org/pdf/2212.12858.pdf)</button>
 <button style="background-color:#002993; border-color:#002993">[<span style="color:white">LINK</span>](https://ieeexplore.ieee.org/abstract/document/10008073)</button>
 
