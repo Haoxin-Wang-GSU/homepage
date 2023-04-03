@@ -7,6 +7,10 @@ hide_description: true
 sitemap: false
 permalink: /patent/
 ---
+> - **[P18]** **System Framework for Software and Hardware Configuration Determination for Vehicle Applications with Cloud and Edge Computing** <br>
+> Haoxin Wang, Dawei Chen, Rohit Gupta, and Kyungtae Han <br>
+> *U.S. patent application 18/173,867, Filed Mar. 2023* <br>
+
 > - **[P17]** **Systems, Methods, and Non-Transitory Computer-Readable Medium for Sharing Camera Views** <br>
 > Yitao Chen, Dawei Chen, Haoxin Wang, and Kyungtae Han <br>
 > *U.S. patent application 18/073,839, Filed Dec. 2022* <br>
