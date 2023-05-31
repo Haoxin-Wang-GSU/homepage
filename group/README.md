@@ -88,7 +88,7 @@ button:hover, a:hover {
   
   <body>
     <section>
-    <article>
+    <!-- <article>
     <div class="card">
   	<img src="img/Yueyang.jpeg" alt="1" style="width:100%">
   	<p>Yueyang Liu</p>
@@ -103,7 +103,7 @@ button:hover, a:hover {
   	</div>
   	<p><button onclick="window.location.href='https://lyy.asia/about.html';">More Info.</button></p>
 	</div>
-	</article>
+	</article> -->
     
 	<article>
     <div class="card">
