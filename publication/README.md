@@ -19,6 +19,10 @@ permalink: /publication/
 
 
 ## 2023
+> - **[T-ITS'23]** **DSORL: Data Source Optimization with Reinforcement Learning Scheme for Vehicular Named Data Networks** <br>
+> Daniel Doe, Dawei Chen, Kyungtae Han, Haoxin Wang, Jiang (Linda) Xie, and Zhu Han <br>
+> *IEEE Transactions on Intelligent Transportation Systems.* <br>
+
 > - **[VTM'23]** **Metamobility: Connecting Future Mobility with Metaverse** <br>
 > Haoxin Wang, Ziran Wang, Dawei Chen, Qiang Liu, Hongyu Ke, and Kyungtae Han <br>
 > *IEEE Vehicular Technology Magazine, Accepted.* <br>
