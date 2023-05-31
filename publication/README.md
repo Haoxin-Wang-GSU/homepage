@@ -8,20 +8,18 @@ sitemap: false
 permalink: /publication/
 ---
 
-## Under Review
-> - **[ICASSP'23]** **Confidence-Based Federated Distillation for Vision-Based Lane-Centering** <br>
-> Yitao Chen, Dawei Chen, Haoxin Wang, Kyungtae Han, and Ming Zhao <br>
-> *2023 IEEE International Conference on Acoustics, Speech and Signal Processing.* <br>
+<!-- ## Under Review -->
 
-> - **[T-ITS'23]** **DSORL: Data Source Optimization with Reinforcement Learning Scheme for Vehicular Named Data Networks** <br>
-> Daniel Doe, Dawei Chen, Kyungtae Han, Haoxin Wang, Jiang (Linda) Xie, and Zhu Han <br>
-> *IEEE Transactions on Intelligent Transportation Systems.* <br>
 
 
 ## 2023
 > - **[T-ITS'23]** **DSORL: Data Source Optimization with Reinforcement Learning Scheme for Vehicular Named Data Networks** <br>
 > Daniel Doe, Dawei Chen, Kyungtae Han, Haoxin Wang, Jiang (Linda) Xie, and Zhu Han <br>
 > *IEEE Transactions on Intelligent Transportation Systems.* <br>
+
+> - **[ICASSP'23 WS]** **Confidence-Based Federated Distillation for Vision-Based Lane-Centering** <br>
+> Yitao Chen, Dawei Chen, Haoxin Wang, Kyungtae Han, and Ming Zhao <br>
+> *2023 IEEE International Conference on Acoustics, Speech and Signal Processing Satellite Workshop: Timely and Private Machine Learning over Networks.* <br>
 
 > - **[VTM'23]** **Metamobility: Connecting Future Mobility with Metaverse** <br>
 > Haoxin Wang, Ziran Wang, Dawei Chen, Qiang Liu, Hongyu Ke, and Kyungtae Han <br>
