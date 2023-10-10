@@ -53,8 +53,8 @@ author:
 menu:
   - title:             News
     url:               /news/
-  - title:             Research
-    url:               /blog/
+  # - title:             Research
+  #   url:               /blog/
   - title:             Publications
     url:               /publication/
   - title:             Patents
