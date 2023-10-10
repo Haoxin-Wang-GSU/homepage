@@ -10,8 +10,6 @@ permalink: /publication/
 
 <!-- ## Under Review -->
 
-
-
 ## 2023
 > - **[T-ITS'23]** **DSORL: Data Source Optimization with Reinforcement Learning Scheme for Vehicular Named Data Networks** <br>
 > Daniel Doe, Dawei Chen, Kyungtae Han, Haoxin Wang, Jiang (Linda) Xie, and Zhu Han <br>
