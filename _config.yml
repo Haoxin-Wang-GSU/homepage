@@ -64,7 +64,8 @@ menu:
   - title:             Service
     url:               /service/
   - title:             AMAI Lab
-    url:               /AMAI/
+    url:               https://www.amai-gsu.us/
+    # url:               /AMAI/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
