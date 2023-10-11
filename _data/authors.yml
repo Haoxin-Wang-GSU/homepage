@@ -7,19 +7,10 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    Dr. Haoxin Wang (王昊鑫) received his B.S. degree in Control Science and Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/), Harbin, China, and Ph.D. degree in the [Department of Electrical and Computer Engineering](https://ece.charlotte.edu/) from [The University of North Carolina-Charlotte](https://www.charlotte.edu/).
-    
-    Dr. Wang is currently a tenure-track assistant professor in the [Department of Computer Science](https://csds.gsu.edu/) at [Georgia State University (GSU)](https://www.youvisit.com/tour/gsu).
-    Prior to joining GSU, Dr. Wang was a research scientist at Toyota Motor North America R&D - [InfoTech Labs](https://amrd.toyota.com/division/itl/), leading the [Edge Computing Roadmap](https://www.youtube.com/watch?v=vtgYG692-cM). 
-    Dr. Wang's current research interests include:
-    - **Mobile Augmented Reality (AR)/ Virtual Reality (VR)**
-    - **Sustainable AI**
-    - **Digital Twins**
-    - **Connected and Automated Vehicles**
-    - **Holographic Communication**
+  about:             
+    Visit our [AMAI Lab website](https://www.amai-gsu.us/) for details.
   
-    <span style="color:red">**Our Advanced Mobility & Augmented Intelligence (AMAI) lab is actively looking for high-motivated Ph.D. students. Please refer to [this page](assets/pdf/PhD.pdf) for details.**</span>
+    <span style="color:red">**Our Advanced Mobility & Augmented Intelligence (AMAI) lab is actively looking for high-motivated Ph.D. students. Please refer to [this page](https://www.amai-gsu.us/) for details.**</span>
   # This photo will be used in the about section
   picture:
     path:            /assets/img/haoxin-bio2.png
@@ -33,7 +24,7 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          <username>
+    # github:          <username>
     email:           <haoxinwang@gsu.edu>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -69,7 +60,7 @@ author1:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    download:        updated_CV.pdf
+    # download:        updated_CV.pdf
     # keybase          <username>
 
 # Another author (optional)
