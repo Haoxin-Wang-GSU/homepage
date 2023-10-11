@@ -55,8 +55,8 @@ menu:
   #   url:               /news/
   # - title:             Research
   #   url:               /blog/
-  - title:             Publications
-    url:               /publication/
+#  - title:             Publications
+#    url:               /publication/
   - title:             Patents
     url:               /patent/
   # - title:             Teaching
