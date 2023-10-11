@@ -13,7 +13,7 @@ cover: true
 
 ## News
 
-Please visit our AMAI Lab website for more information.
+Please visit our [AMAI Lab website](https://www.amai-gsu.us/) for more information.
 
 
 ## Vistors
