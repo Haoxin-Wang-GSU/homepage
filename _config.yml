@@ -59,8 +59,8 @@ menu:
     url:               /publication/
   - title:             Patents
     url:               /patent/
-  - title:             Teaching
-    url:               /teaching/
+  # - title:             Teaching
+  #   url:               /teaching/
   - title:             Service
     url:               /service/
   - title:             AMAI Lab
