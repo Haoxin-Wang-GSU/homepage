@@ -7,13 +7,7 @@ hide_description: true
 cover: true
 ---
 
-## About Me 📃 [CV](updated_CV.pdf)
-
 <!--author-->
-
-## News
-
-Please visit our [AMAI Lab website](https://www.amai-gsu.us/) for more information.
 
 
 ## Vistors
